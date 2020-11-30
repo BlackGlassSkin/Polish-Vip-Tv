@@ -1,0 +1,129 @@
+#EXTM3U x-tvg-url="http://kim.cherrytv.webd.pl/epg/guide.xml.gz"
+#EXTINF:0 tvg-id="13 Ulica HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/13%20Ulica%20HD.png" group-title="Rozrywkowe",13 Ulica HD
+plugin://plugin.video.ncplusgo/?name=13+Ulica+HD&moviescount=0&url=13-ulica&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Ale Kino+ HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Ale%20Kino+%20HD.png" group-title="Filmowe",Ale Kino+ HD
+plugin://plugin.video.ncplusgo/?name=ALE+KINO%2B+HD&moviescount=0&url=ale-kino-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="AXN HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/AXN%20HD.png" group-title="Rozrywkowe",AXN HD
+plugin://plugin.video.ncplusgo/?name=AXN+HD&moviescount=0&url=axn-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="AXN Spin HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/AXN%20Spin%20HD.png" group-title="Rozrywkowe",AXN Spin HD
+plugin://plugin.video.ncplusgo/?name=AXN+Spin+HD&moviescount=0&url=axn-spin-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="BBC Brit HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/BBC%20Brit%20HD.png" group-title="Dokumentalne",BBC Brit HD
+plugin://plugin.video.ncplusgo/?name=BBC+Brit+HD&moviescount=0&url=bbc-brit-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="BBC Lifestyle HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/BBC%20Lifestyle%20HD.png" group-title="Dokumentalne",BBC Lifestyle HD
+plugin://plugin.video.ncplusgo/?name=BBC+Lifestyle+HD&moviescount=0&url=bbc-lifestyle&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Canal+ 1 HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Canal+%201%20HD.png" group-title="Filmowe",Canal+ 1 HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+1+HD&moviescount=0&url=canal-1&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Canal+ Family HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Canal+%20Family%20HD.png" group-title="Filmowe",Canal+ Family HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+FAMILY+HD&moviescount=0&url=canal-family-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Canal+ Film HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Canal+%20Film%20HD.png" group-title="Filmowe",Canal+ Film HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+FILM+HD&moviescount=0&url=canal-film-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Canal+ Now" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Canal+%20Now.png" group-title="Sportowe",Canal+ Now
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+NOW&moviescount=0&url=38&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Canal+" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Canal+.png" group-title="Filmowe",Canal+
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+Premium&moviescount=0&url=canal-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Canal+ Sport 2 HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Canal+%20Sport%202%20HD.png" group-title="Sportowe",Canal+ Sport 2 HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+SPORT+2+HD&moviescount=0&url=canal-sport-2&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Canal+ Sport HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Canal+%20Sport%20HD.png" group-title="Sportowe",Canal+ Sport HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+SPORT+HD&moviescount=0&url=canal-sport-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Cartoon Network HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Cartoon%20Network%20HD.png" group-title="Dla Dzieci",Cartoon Network HD
+plugin://plugin.video.ncplusgo/?name=Cartoon+Network+HD&moviescount=0&url=cartoon-network&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Comedy Central HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Comedy%20Central%20HD.png" group-title="Rozrywkowe",Comedy Central HD
+plugin://plugin.video.ncplusgo/?name=Comedy+Central+HD&moviescount=0&url=comedy-central-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="CI Polsat" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/CI%20Polsat.png" group-title="Dokumentalne",CI Polsat HD
+plugin://plugin.video.ncplusgo/?name=Crime%2BInvestigation+Polsat+HD&moviescount=0&url=ci-polsat&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Disco Polo Music" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Disco%20Polo%20Music.png" group-title="Muzyczne",Disco Polo Music
+plugin://plugin.video.ncplusgo/?name=Disco+Polo+Music&moviescount=0&url=disco-polo-music&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Discovery Channel HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Discovery%20Channel%20HD.png" group-title="Dokumentalne",Discovery Channel HD
+plugin://plugin.video.ncplusgo/?name=Discovery+HD&moviescount=0&url=discovery-channel-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Discovery Historia" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Discovery%20Historia.png" group-title="Dokumentalne",Discovery Historia
+plugin://plugin.video.ncplusgo/?name=Discovery+Historia&moviescount=0&url=discovery-historia&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Discovery Life HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Discovery%20Life.png" group-title="Dokumentalne",Discovery Life HD
+plugin://plugin.video.ncplusgo/?name=Discovery+Life+HD&moviescount=0&url=discovery-life&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Disney Channel HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Disney%20Channel%20HD.png" group-title="Dla Dzieci",Disney Channel HD
+plugin://plugin.video.ncplusgo/?name=Disney+Channel+HD&moviescount=0&url=disney-channel&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Disney Junior" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Disney%20Junior.png" group-title="Dla Dzieci",Disney Junior
+plugin://plugin.video.ncplusgo/?name=Disney+Junior&moviescount=0&url=disney-junior&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Disney XD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Disney%20XD.png" group-title="Dla Dzieci",Disney XD
+plugin://plugin.video.ncplusgo/?name=Disney+XD&moviescount=0&url=disney-xd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Domo+ HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Domo+%20HD.png" group-title="Rozrywkowe",Domo+ HD
+plugin://plugin.video.ncplusgo/?name=Domo%2B+HD&moviescount=0&url=domo-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="E! Entertainment HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/E!%20Entertainment.png" group-title="Rozrywkowe",E! Entertainment HD
+plugin://plugin.video.ncplusgo/?name=E%21Entertainment+HD&moviescount=0&url=e-entertainment&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Eska TV" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Eska%20TV.png" group-title="Muzyczne",Eska TV
+plugin://plugin.video.ncplusgo/?name=ESKA+TV&moviescount=0&url=8tv&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Eska TV Extra" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Eska%20TV%20Extra.png" group-title="Muzyczne",Eska TV Extra
+plugin://plugin.video.ncplusgo/?name=ESKA+TV+EXTRA&moviescount=0&url=eska-tv&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Eurosport 1 HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Eurosport%201%20HD.png" group-title="Sportowe",Eurosport 1 HD
+plugin://plugin.video.ncplusgo/?name=EUROSPORT+1+HD&moviescount=0&url=eurosport-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Fokus TV" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Fokus%20TV.png" group-title="Dokumentalne",Fokus TV
+plugin://plugin.video.ncplusgo/?name=FOKUS+TV&moviescount=0&url=fokus-tv&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="FOX HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/FOX%20HD.png" group-title="Rozrywkowe",FOX HD
+plugin://plugin.video.ncplusgo/?name=FOX+HD&moviescount=0&url=fox-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="HGTV" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/HGTV.png" group-title="Rozrywkowe",HGTV
+plugin://plugin.video.ncplusgo/?name=HGTV&moviescount=0&url=tvn-meteo-active&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Kino Polska" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Kino%20Polska.png" group-title="Filmowe",Kino Polska HD
+plugin://plugin.video.ncplusgo/?name=Kino+Polska+HD&moviescount=0&url=kino-polska&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Kino Polska Muzyka" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Kino%20Polska%20Muzyka.png" group-title="Muzyczne",Kino Polska Muzyka
+plugin://plugin.video.ncplusgo/?name=Kino+Polska+Muzyka&moviescount=0&url=kino-polska-muzyka&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Kuchnia+ HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Kuchnia+%20HD.png" group-title="Rozrywkowe",Kuchnia+ HD
+plugin://plugin.video.ncplusgo/?name=Kuchnia%2B+HD&moviescount=0&url=kuchnia-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Metro" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Metro%20HD.png" group-title="Popularne",Metro
+plugin://plugin.video.ncplusgo/?name=METRO&moviescount=0&url=metro-tv&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="MTV Polska HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/MTV%20Polska%20HD.png" group-title="Muzyczne",MTV Polska HD
+plugin://plugin.video.ncplusgo/?name=MTV+Polska+HD&moviescount=0&url=mtv-polska&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="MiniMini+ HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/MiniMini+%20HD.png" group-title="Dla Dzieci",MiniMini+ HD
+plugin://plugin.video.ncplusgo/?name=MiniMini%2B+HD&moviescount=0&url=minimini-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="National Geographic Wild HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/National%20Geographic%20Wild%20HD.png" group-title="Dokumentalne",National Geographic Wild HD
+plugin://plugin.video.ncplusgo/?name=NATIONAL+GEOGRAPHIC+WILD+HD&moviescount=0&url=nat-geo-wild-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Nat Geo People HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Nat%20Geo%20People%20HD.png" group-title="Dokumentalne",Nat Geo People HD
+plugin://plugin.video.ncplusgo/?name=Nat+Geo+People+HD&moviescount=0&url=nat-geo-people-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="National Geographic HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/National%20Geographic%20HD.png" group-title="Dokumentalne",National Geographic HD
+plugin://plugin.video.ncplusgo/?name=National+Geo+HD&moviescount=0&url=national-geographic-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Nickelodeon" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Nickelodeon.png" group-title="Dla Dzieci",Nickelodeon
+plugin://plugin.video.ncplusgo/?name=Nickelodeon&moviescount=0&url=nickelodeon&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Nowa TV" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/NOWA%20TV.png" group-title="Popularne",Nowa TV
+plugin://plugin.video.ncplusgo/?name=Nowa+TV&moviescount=0&url=nowa-tv&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Paramount Channel HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Paramount%20Channel%20HD.png" group-title="Filmowe",Paramount Channel HD
+plugin://plugin.video.ncplusgo/?name=Paramount+Channel+HD&moviescount=0&url=paramount-channel-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Planete+ HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Planete+%20HD.png" group-title="Dokumentalne",Planete+ HD
+plugin://plugin.video.ncplusgo/?name=Planete%2B+HD&moviescount=0&url=planete-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Polsat Cafe HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Polsat%20Cafe%20HD.png" group-title="Rozrywkowe",Polsat Cafe HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Cafe+HD&moviescount=0&url=polsat-cafe&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Polsat JimJam" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Polsat%20JimJam.png" group-title="Dla Dzieci",Polsat JimJam
+plugin://plugin.video.ncplusgo/?name=Polsat+JimJam&moviescount=0&url=polsat-jimjam&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Polsat News HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Polsat%20News%20HD.png" group-title="Informacyjne",Polsat News HD
+plugin://plugin.video.ncplusgo/?name=Polsat+News+HD&moviescount=0&url=polsat-news-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Polsat Play HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Polsat%20Play%20HD.png" group-title="Rozrywkowe",Polsat Play HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Play+HD&moviescount=0&url=polsat-play&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Power TV" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Power%20TV.png" group-title="Muzyczne",Power TV
+plugin://plugin.video.ncplusgo/?name=Power+TV&moviescount=0&url=power-tv-1&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Romance TV HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Romance%20HD.png" group-title="Rozrywkowe",Romance TV HD
+plugin://plugin.video.ncplusgo/?name=Romance+TV+HD&moviescount=0&url=romance-tv-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Stopklatka TV" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Stopklatka%20TV.png" group-title="Filmowe",Stopklatka TV
+plugin://plugin.video.ncplusgo/?name=Stopklatka+TV&moviescount=0&url=stopklatka-tv&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Superstacja" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Superstacja.png" group-title="Informacyjne",Superstacja
+plugin://plugin.video.ncplusgo/?name=Superstacja&moviescount=0&url=superstacja&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="TLC HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/TLC%20HD.png" group-title="Rozrywkowe",TLC HD
+plugin://plugin.video.ncplusgo/?name=TLC+HD&moviescount=0&url=tlc-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="TV Republika" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/TV%20Republika.png" group-title="Informacyjne",TV Republika
+plugin://plugin.video.ncplusgo/?name=TV+Republika&moviescount=0&url=tv-republika&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="TVN Style HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/TVN%20Style%20HD.png" group-title="Rozrywkowe",TVN Style HD
+plugin://plugin.video.ncplusgo/?name=TVN+Style+HD&moviescount=0&url=tvn-style-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="TVN Turbo HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/TVN%20Turbo%20HD.png" group-title="Sportowe",TVN Turbo HD
+plugin://plugin.video.ncplusgo/?name=TVN+Turbo+HD&moviescount=0&url=tvn-turbo-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="TVN 24 BiS HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/TVN%2024%20BiS%20HD.png" group-title="Informacyjne",TVN 24 BiS HD
+plugin://plugin.video.ncplusgo/?name=TVN24+BiS+HD&moviescount=0&url=tvn-biznes-i-swiat&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="TVN 24 HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/TVN%2024%20HD.png" group-title="Informacyjne",TVN 24 HD
+plugin://plugin.video.ncplusgo/?name=TVN24+HD&moviescount=0&url=tvn-24-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="TVP Info" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/TVP%20Info.png" group-title="Informacyjne",TVP Info
+plugin://plugin.video.ncplusgo/?name=TVP+INFO&moviescount=0&url=tvp-info&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Travel Channel HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Travel%20Channel%20HD.png" group-title="Rozrywkowe",Travel Channel HD
+plugin://plugin.video.ncplusgo/?name=Travel+Channel+HD&moviescount=0&url=travel-channel&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="VOX Music TV" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/VOX%20Music%20TV.png" group-title="Muzyczne",VOX Music TV
+plugin://plugin.video.ncplusgo/?name=VOX+MUSIC+TV&moviescount=0&url=vox-music-tv&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="WP" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/WP.png" group-title="Popularne",WP
+plugin://plugin.video.ncplusgo/?name=WP&moviescount=0&url=wp&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="nSport+ HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/nSport+%20HD.png" group-title="Sportowe",nSport+ HD
+plugin://plugin.video.ncplusgo/?name=nSport%2B+HD&moviescount=0&url=nsport-hd&movie=True&mode=playNC&page=1?ext=.pvr
+#EXTINF:0 tvg-id="Teletoon+ HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Teletoon+%20HD.png" group-title="Dla Dzieci",Teletoon+ HD
+plugin://plugin.video.ncplusgo/?name=teleTOON%2B+HD&moviescount=0&url=teletoon-hd&movie=True&mode=playNC&page=1?ext=.pvr
