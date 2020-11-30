@@ -6,3 +6,9 @@
 * - [x] __Kategorie__
 * - [x] __PICON'Y @zet71__ https://www.sat-4-all.com/board/topic/270908-picony-zet71
 * - [x] __Epg__  http://kim.cherrytv.webd.pl/epg/guide.xml.gz
+
+
+
+
+
+![]https://i.ibb.co/fdmSMCh/24.png?raw=true)
