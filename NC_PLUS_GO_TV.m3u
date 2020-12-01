@@ -73,7 +73,7 @@ plugin://plugin.video.ncplusgo/?name=METRO&moviescount=0&url=metro-tv&movie=True
 plugin://plugin.video.ncplusgo/?name=MTV+Polska+HD&moviescount=0&url=mtv-polska&movie=True&mode=playNC&page=1?ext=.pvr
 #EXTINF:0 tvg-id="MiniMini+ HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/MiniMini+%20HD.png" group-title="Dla Dzieci",MiniMini+ HD
 plugin://plugin.video.ncplusgo/?name=MiniMini%2B+HD&moviescount=0&url=minimini-hd&movie=True&mode=playNC&page=1?ext=.pvr
-#EXTINF:0 tvg-id="National Geographic Wild HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/National%20Geographic%20Wild%20HD.png" group-title="Dokumentalne",National Geographic Wild HD
+#EXTINF:0 tvg-id="National Geographic Wild HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Nat%20Geo%20Wild.png" group-title="Dokumentalne",National Geographic Wild HD
 plugin://plugin.video.ncplusgo/?name=NATIONAL+GEOGRAPHIC+WILD+HD&moviescount=0&url=nat-geo-wild-hd&movie=True&mode=playNC&page=1?ext=.pvr
 #EXTINF:0 tvg-id="Nat Geo People HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Nat%20Geo%20People%20HD.png" group-title="Dokumentalne",Nat Geo People HD
 plugin://plugin.video.ncplusgo/?name=Nat+Geo+People+HD&moviescount=0&url=nat-geo-people-hd&movie=True&mode=playNC&page=1?ext=.pvr
@@ -81,7 +81,7 @@ plugin://plugin.video.ncplusgo/?name=Nat+Geo+People+HD&moviescount=0&url=nat-geo
 plugin://plugin.video.ncplusgo/?name=National+Geo+HD&moviescount=0&url=national-geographic-hd&movie=True&mode=playNC&page=1?ext=.pvr
 #EXTINF:0 tvg-id="Nickelodeon" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Nickelodeon.png" group-title="Dla Dzieci",Nickelodeon
 plugin://plugin.video.ncplusgo/?name=Nickelodeon&moviescount=0&url=nickelodeon&movie=True&mode=playNC&page=1?ext=.pvr
-#EXTINF:0 tvg-id="Nowa TV" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/NOWA%20TV.png" group-title="Popularne",Nowa TV
+#EXTINF:0 tvg-id="Nowa TV" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Nowa%20TV%20HD.png" group-title="Popularne",Nowa TV
 plugin://plugin.video.ncplusgo/?name=Nowa+TV&moviescount=0&url=nowa-tv&movie=True&mode=playNC&page=1?ext=.pvr
 #EXTINF:0 tvg-id="Paramount Channel HD" tvg-logo="http://kim.cherrytv.webd.pl/NoName_3/Paramount%20Channel%20HD.png" group-title="Filmowe",Paramount Channel HD
 plugin://plugin.video.ncplusgo/?name=Paramount+Channel+HD&moviescount=0&url=paramount-channel-hd&movie=True&mode=playNC&page=1?ext=.pvr
