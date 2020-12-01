@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-id="4Fun Dance" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/4Fun%20Dance.png" group-title="Muzyczne",4Fun Dance
 plugin://plugin.video.canalplusvod/?name=4FUN+DANCE&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2F4FunDance.wsx%3Fdeviceid%3D71%7C20875&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="4Fun Gold" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/4Fun%20Gold.png" group-title="Muzyczne",4Fun Gold
+#EXTINF:0 tvg-id="4Fun Gold" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/4Fun%20Gold%20Hits.png" group-title="Muzyczne",4Fun Gold
 plugin://plugin.video.canalplusvod/?name=4FUN+HITS+GOLD&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2F4FunGoldHits.wsx%3Fdeviceid%3D71%7C20820&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20820%2Fncplus-ouah%2FCHN43FN%2F4FUN_KIDS_logo1%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="4Fun.TV" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/4Fun.png" group-title="Muzyczne",4Fun.TV
+#EXTINF:0 tvg-id="4Fun.TV" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/4Fun.TV%20HD.png" group-title="Muzyczne",4Fun.TV
 plugin://plugin.video.canalplusvod/?name=4FUN.TV&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2F4FunTV.wsx%3Fdeviceid%3D71%7C20272&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 
 ###EXTINF:0 ,4K
@@ -27,7 +27,7 @@ plugin://plugin.video.canalplusvod/?name=BOOMERANG+HD&moviescount=0&url=https%3A
 plugin://plugin.video.canalplusvod/?name=CANAL+SPORT&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FCplusSportHD.wsx%3Fdeviceid%3D71%7C20588&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Canal+" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Canal+.png" group-title="Filmowe",Canal+
 plugin://plugin.video.canalplusvod/?name=CANAL%2B&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FCANALplusHD.wsx%3Fdeviceid%3D71%7C20586&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20586%2Fncplus-ouah%2FCHN43FN%2FCH43FN_20586_CANALPREMIUM_20200428%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="Canal+ Discovery" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Canal+%20Discovery.png" group-title="Dokumentalne",Canal+ Dokument
+#EXTINF:0 tvg-id="Canal+ Discovery" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Canal%2B%20Dokument%20HD.png" group-title="Dokumentalne",Canal+ Dokument
 plugin://plugin.video.canalplusvod/?name=CANAL%2B+DISCOVERY&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FCplusDok.wsx%3Fdeviceid%3D71%7C20930&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Canal+ Family" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Canal+%20Family.png" group-title="Filmowe",Canal+ Family
 plugin://plugin.video.canalplusvod/?name=CANAL%2B+FAMILY&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FCplusFamilyHD.wsx%3Fdeviceid%3D71%7C20856&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
@@ -45,17 +45,17 @@ plugin://plugin.video.canalplusvod/?name=CANAL%2B+SPORT+4&moviescount=0&url=http
 plugin://plugin.video.canalplusvod/?name=CANAL%2B+SPORT2&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FCplusSport2HD.wsx%3Fdeviceid%3D71%7C20928&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Cartoon Network" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Cartoon%20Network.png" group-title="Dla Dzieci",Cartoon Network
 plugin://plugin.video.canalplusvod/?name=CARTOON+NETWORK&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FCartoonNetworkSD.wsx%3Fdeviceid%3D71%7C20590&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="BBC CBeebies" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/BBC%20Cbeebies.png" group-title="Dla Dzieci",BBC CBeebies
+#EXTINF:0 tvg-id="BBC CBeebies" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/BBC%20CBeebies.png" group-title="Dla Dzieci",BBC CBeebies
 plugin://plugin.video.canalplusvod/?name=CBEEBIES&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FCbeebiesSD.wsx%3Fdeviceid%3D71%7C20570&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="UK: CNBC" group-title="Informacyjne",CNBC
+#EXTINF:0 tvg-id="CNBC" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/CNBC-BACK.png" group-title="Informacyjne",CNBC
 plugin://plugin.video.canalplusvod/?name=CNBC+EUROPE&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FCNBCEurope.wsx%3Fdeviceid%3D71%7C21762&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F21762%2Fncplus-ouah%2FCHN43FN%2FCNBC%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="UK: CNBC" group-title="Informacyjne",CNN Network
+#EXTINF:0 tvg-id="CNN Network" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/CNN%20International.png" group-title="Informacyjne",CNN Network
 plugin://plugin.video.canalplusvod/?name=CNN&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FCNN.wsx%3Fdeviceid%3D71%7C20281&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20281%2Fncplus-ouah%2FCHN43FN%2FCNN%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Comedy Central" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Comedy%20Central.png" group-title="Rozrywkowe",Comedy Central
 plugin://plugin.video.canalplusvod/?name=COMEDY+CENTRAL&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FComedyCentralHD.wsx%3Fdeviceid%3D71%7C20282&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="Comedy Central Family HD" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Comedy%20Central%20Family.png" group-title="Rozrywkowe",Comedy Central Family HD
+#EXTINF:0 tvg-id="Comedy Central Family HD" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Polsat%20Comedy%20Central%20Extra%20HD.png" group-title="Rozrywkowe",Comedy Central Family HD
 plugin://plugin.video.canalplusvod/?name=COMEDY+CENTRAL+FAMILY+HD&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FComedyCentralFamilyHD.wsx%3Fdeviceid%3D71%7C20785&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20785%2Fncplus-ouah%2FCHN43FN%2FCH43FN_20785_cc_extra_polsat_20200313%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 ,DEUTSCHE WELLE
+#EXTINF:0 tvg-id="DEUTSCHE WELLE" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/DW%20HD.png" group-title="Rozrywkowe",DEUTSCHE WELLE
 plugin://plugin.video.canalplusvod/?name=DEUTSCHE+WELLE&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FDeutscheWelle.wsx%3Fdeviceid%3D71%7C21101&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F21101%2Fncplus-ouah%2FCHN43FN%2FDEUTSCHE-WELLE%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Disney Channel" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Disney%20Channel.png" group-title="Dla Dzieci",Disney Channel
 plugin://plugin.video.canalplusvod/?name=DISNEY+CHANNEL&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FDisney.wsx%3Fdeviceid%3D71%7C20770&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
@@ -63,7 +63,7 @@ plugin://plugin.video.canalplusvod/?name=DISNEY+CHANNEL&moviescount=0&url=https%
 plugin://plugin.video.canalplusvod/?name=DISNEY+JUNIOR&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FDisneyJuniorSD.wsx%3Fdeviceid%3D71%7C20810&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Domo+" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Domo+.png" group-title="Rozrywkowe",Domo+
 plugin://plugin.video.canalplusvod/?name=DOMO%2B&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FDomoplusHD.wsx%3Fdeviceid%3D71%7C20841&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 ,E! Entertainment
+#EXTINF:0 tvg-id="E!" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/E%21.pl.png" group-title="Rozrywkowe",E! Entertainment
 plugin://plugin.video.canalplusvod/?name=E&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FESD.wsx%3Fdeviceid%3D71%7C20605&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20605%2Fncplus-ouah%2FCHN43FN%2FE_LOGO_Flat_white_solid_ouah%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Eleven Sports 1" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Eleven%20Sports%201.png" group-title="Sportowe",Eleven Sports 1
 plugin://plugin.video.canalplusvod/?name=ELEVEN+SPORTS+1&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2F11Sports1.wsx%3Fdeviceid%3D71%7C20843&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
@@ -73,7 +73,7 @@ plugin://plugin.video.canalplusvod/?name=ELEVEN+SPORTS+2&moviescount=0&url=https
 plugin://plugin.video.canalplusvod/?name=ELEVEN+SPORTS+3&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2F11Sports3.wsx%3Fdeviceid%3D71%7C21041&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Eleven Sports 4" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Eleven%20Sports%204.png" group-title="Sportowe",Eleven Sports 4
 plugin://plugin.video.canalplusvod/?name=ELEVEN+SPORTS+4&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2F11Sports4.json%3Fdeviceid%3D71%7C21282&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 ,EURONEWS HD
+#EXTINF:0 tvg-id="EURONEWS" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Euronews%20FR%20HD.png" group-title="Sportowe",EURONEWS HD
 plugin://plugin.video.canalplusvod/?name=EURONEWS+HD&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FEuronews.wsx%3Fdeviceid%3D71%7C21761&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F21761%2Fncplus-ouah%2FCHN43FN%2FEuronews%3Fdate%3D20201125140422&mode=playCANvod&page=1
 
 ###EXTINF:0 ,EVENT1
@@ -99,9 +99,9 @@ plugin://plugin.video.canalplusvod/?name=FILMBOX+FAMILY&moviescount=0&url=https%
 plugin://plugin.video.canalplusvod/?name=FILMBOX+PREMIUM+HD&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FFilmboxPreHD.wsx%3Fdeviceid%3D71%7C20535&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="FOX" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/FOX.png" group-title="Rozrywkowe",FOX
 plugin://plugin.video.canalplusvod/?name=FOX&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FFoxHD.wsx%3Fdeviceid%3D71%7C20780&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 ,France 24
+#EXTINF:0 tvg-id="France 24" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/France%2024%20English%20HD.png" group-title="Rozrywkowe",France 24
 plugin://plugin.video.canalplusvod/?name=FRANCE+24&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FFrance24FR.wsx%3Fdeviceid%3D71%7C20942&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20942%2Fncplus-ouah%2FCHN43FN%2FFRANCE24%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 ,France 24 English
+#EXTINF:0 tvg-id="France 24 English" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/France%2024%20English%20HD.png" group-title="Rozrywkowe",France 24 English
 plugin://plugin.video.canalplusvod/?name=FRANCE+24+ANG&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FFrance24ENG.wsx%3Fdeviceid%3D71%7C20941&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20941%2Fncplus-ouah%2FCHN43FN%2FFRANCE24_english%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="HBO" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/HBO.png" group-title="Filmowe",HBO
 plugin://plugin.video.canalplusvod/?name=HBO&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FHBOHD.wsx%3Fdeviceid%3D71%7C20526&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
@@ -117,19 +117,19 @@ plugin://plugin.video.canalplusvod/?name=KUCHNIA%2B&moviescount=0&url=https%3A%2
 plugin://plugin.video.canalplusvod/?name=MINIMINI%2B&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FMiniMiniplusHD.wsx%3Fdeviceid%3D71%7C20833&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20833%2Fncplus-ouah%2FCHN43FN%2FMinimini_web_2019%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="MTV Hits" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/MTV%20Hits.png" group-title="Muzyczne",MTV Hits
 plugin://plugin.video.canalplusvod/?name=MTV+HITS&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FMTVHits.wsx%3Fdeviceid%3D71%7C21702&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="MTV Music" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/MTV%20Music.png" group-title="Muzyczne",MTV Music
+#EXTINF:0 tvg-id="MTV Music" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/MTV%20Music%2024.png" group-title="Muzyczne",MTV Music
 plugin://plugin.video.canalplusvod/?name=MTV+MUSIC&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FMTVMusic.wsx%3Fdeviceid%3D71%7C20320&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="MTV Polska" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/MTV%20Polska.png" group-title="Muzyczne",MTV Polska
 plugin://plugin.video.canalplusvod/?name=MTV+POLSKA&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FMTVPolskaSD.wsx%3Fdeviceid%3D71%7C20298&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="MTV Rocks" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/MTV%20Rocks.png" group-title="Muzyczne",MTV Rocks
 plugin://plugin.video.canalplusvod/?name=MTV+ROCKS&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FMTVRocks.wsx%3Fdeviceid%3D71%7C20297&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20297%2Fncplus-ouah%2FCHN43FN%2Fmtv90logoblack%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="National Geographic Wild" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/National%20Geographic%20Wild.png" group-title="Dokumentalne",National Geographic Wild
+#EXTINF:0 tvg-id="National Geographic Wild" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Nat%20Geo%20Wild-BACK.png" group-title="Dokumentalne",National Geographic Wild
 plugin://plugin.video.canalplusvod/?name=NAT+GEO++WILD&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FNatGeoWildHD.wsx%3Fdeviceid%3D71%7C20768&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="National Geographic" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/National%20Geographic.png" group-title="Dokumentalne",National Geographic
 plugin://plugin.video.canalplusvod/?name=NATIONAL+GEOGRAPHIC&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FNationalGeographicHD.wsx%3Fdeviceid%3D71%7C20646&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 ,NICKELODEON
+#EXTINF:0 tvg-id="NICKELODEON" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Nickelodeon.png" group-title="Dokumentalne",National Geographic,NICKELODEON
 plugin://plugin.video.canalplusvod/?name=NICK&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FNickSD.wsx%3Fdeviceid%3D71%7C20559&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="Nick Jr" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Nick%20Jr.png" group-title="Dla Dzieci",Nick Jr
+#EXTINF:0 tvg-id="Nick Jr" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Nick%20Jr..png" group-title="Dla Dzieci",Nick Jr
 plugin://plugin.video.canalplusvod/?name=NICK+JR.&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FNickJrSD.wsx%3Fdeviceid%3D71%7C20808&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20808%2Fncplus-ouah%2FCHN43FN%2FNC_loga_NickJR_OUAH%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Polsat Play" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Polsat%20Play.png" group-title="Rozrywkowe",Polsat Play
 plugin://plugin.video.canalplusvod/?name=NICK+PLAY&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2F%3Fdeviceid%3D71%7C62008&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
@@ -161,7 +161,7 @@ plugin://plugin.video.canalplusvod/?name=POLSAT+Sport+Premium+5&moviescount=0&ur
 plugin://plugin.video.canalplusvod/?name=POLSAT+Sport+Premium+6&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FPolsatPPV6.wsx%3Fdeviceid%3D71%7C21466&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F21466%2Fncplus-ouah%2FCHN43FN%2Fpolsatsportpremium6logo%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Power TV" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Power%20TV.png" group-title="Muzyczne",Power TV
 plugin://plugin.video.canalplusvod/?name=POWER+TV&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FPowerTV.wsx%3Fdeviceid%3D71%7C20900&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
-#EXTINF:0 tvg-id="SciFi" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Scifi%20Universal.png" group-title="Filmowe",SciFi
+#EXTINF:0 tvg-id="SciFi" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/SciFi%20HD.png" group-title="Filmowe",SciFi
 plugin://plugin.video.canalplusvod/?name=SCI+FI&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FSciFiSD.wsx%3Fdeviceid%3D71%7C20880&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20880%2Fncplus-ouah%2FCHN43FN%2FSCIFI_Poland_Logo_HORIZONTAL_YB_ouah%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="Sport Klub HD" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/Sport%20Klub.png" group-title="Sportowe",Sport Klub HD
 plugin://plugin.video.canalplusvod/?name=SPORTKLUB+HD&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2FSportklub.wsx%3Fdeviceid%3D71%7C20304&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2Fhttp%2Funsafe%2F%7BresolutionXY%7D%2Fncplus-cdn.canal-plus.io%2Fp1%2Fchannel%2F20304%2Fncplus-ouah%2FCHN43FN%2FSport_Klub_HD%3Fdate%3D20201125140422&mode=playCANvod&page=1
