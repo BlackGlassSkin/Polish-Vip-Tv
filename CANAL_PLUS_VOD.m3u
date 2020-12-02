@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://kim.cherrytv.webd.pl/epg/guide.xml.gz"
 #EXTINF:0 tvg-id="4Fun Dance" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/4Fun%20Dance.png" group-title="Muzyczne",4Fun Dance
 plugin://plugin.video.canalplusvod/?name=4FUN+DANCE&moviescount=0&url=https%3A%2F%2Froutemeup2.canalplus-bo.net%2Fplfiles%2Fv1%2Fhss-ssl%2F4FunDance.wsx%3Fdeviceid%3D71%7C20875&movie=True&image=https%3A%2F%2Fthumb.canalplus.pro%2F%3Fdate%3D20201125140422&mode=playCANvod&page=1
 #EXTINF:0 tvg-id="4Fun Gold" tvg-logo="http://kim.cherrytv.webd.pl/Silver_Black_2/4Fun%20Gold%20Hits.png" group-title="Muzyczne",4Fun Gold
