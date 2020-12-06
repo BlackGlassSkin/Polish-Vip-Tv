@@ -1,0 +1,319 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-id="4Fun Dance" tvg-logo="logos//4Fun%20Dance.png" group-title="Muzyczne",4Fun Dance
+plugin://plugin.video.horizongo/?name=4FUN+DANCE&moviescount=0&url=http%3A%2F%2Fupc-pl-5061.live.horizon.tv%2Fdash%2FTV_DISCO%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Aj4inoGfFoWee&movie=627525671270&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="ID HD" tvg-logo="logos//ID.png" group-title="Dokumentalne",ID
+plugin://plugin.video.horizongo/?name=4FUN+KIDS&moviescount=0&url=http%3A%2F%2Fupc-pl-5051.live.horizon.tv%2Fdash%2FRBL_TV%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ANC1P1rdHLyVh&movie=627522599365&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="4Fun.TV" tvg-logo="logos//4Fun.png" group-title="Muzyczne",4Fun.TV
+plugin://plugin.video.horizongo/?name=4fun.tv&moviescount=0&url=http%3A%2F%2Fupc-pl-5041.live.horizon.tv%2Fdash%2F4fun_tv%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AF48zIZ1Tp8hn&movie=627525671390&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Adventure HD" tvg-logo="logos//Adventure%20HD.png" group-title="Rozrywkowe",Adventure HD
+plugin://plugin.video.horizongo/?name=ADVENTURE+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5150.live.horizon.tv%2Fdash%2FAdventure_TV_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A_POOAd0_ryl5&movie=644979750990&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="AXN Black" tvg-logo="logos//AXN%20Black.png" group-title="Rozrywkowe",AXN Black
+plugin://plugin.video.horizongo/?name=AXN+Black&moviescount=0&url=http%3A%2F%2Fupc-pl-5094.live.horizon.tv%2Fdash%2FAXN_Black%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AcYSqqE6OU1Mr&movie=627525671301&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="AXN HD" tvg-logo="logos//AXN%20HD.png" group-title="Rozrywkowe",AXN HD
+plugin://plugin.video.horizongo/?name=AXN+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5154.live.horizon.tv%2Fdash%2FAXN_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Aqe8nKvIO3wXh&movie=678893095381&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="AXN Spin HD" tvg-logo="logos//AXN%20Spin%20HD.png" group-title="Rozrywkowe",AXN Spin HD
+plugin://plugin.video.horizongo/?name=AXN+Spin+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5155.live.horizon.tv%2Fdash%2FAXN_Spin_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AdXCS5GqfEYmB&movie=677141031328&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="AXN White" tvg-logo="logos//AXN%20White.png" group-title="Rozrywkowe",AXN White
+plugin://plugin.video.horizongo/?name=AXN+White&moviescount=0&url=http%3A%2F%2Fupc-pl-5092.live.horizon.tv%2Fdash%2FAXN_White%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AoQbGSyrUXuzP&movie=627525671336&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Active Family" tvg-logo="logos//Active%20Family.png" group-title="Rozrywkowe",Active Family HD
+plugin://plugin.video.horizongo/?name=Active+Family+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5129.live.horizon.tv%2Fdash%2FActive_Family_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AmOVjSp3JI0Jy&movie=921880103043&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Animal Planet HD" tvg-logo="logos//Animal%20Planet%20HD.png" group-title="Dokumentalne",Animal Planet HD
+plugin://plugin.video.horizongo/?name=Animal+Planet+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5021.live.horizon.tv%2Fdash%2FAnimal_Planet_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Afrv4HcnaH94v&movie=627525671358&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="BBC Brit HD" tvg-logo="logos//BBC%20Brit%20HD.png" group-title="Dokumentalne",BBC Brit
+plugin://plugin.video.horizongo/?name=BBC+Brit&moviescount=0&url=http%3A%2F%2Fupc-pl-5130.live.horizon.tv%2Fdash%2FBBC_Brit_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AW3KwzaJ5Eguu&movie=627525671342&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="BBC CBeebies" tvg-logo="logos//BBC%20Cbeebies.png" group-title="Dla Dzieci",BBC CBeebies
+plugin://plugin.video.horizongo/?name=BBC+Cbeebies&moviescount=0&url=http%3A%2F%2Fupc-pl-5048.live.horizon.tv%2Fdash%2FBBC_Cbeebies%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AK_70vikznPlM&movie=846190119306&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="BBC Earth HD" tvg-logo="logos//BBC%20Earth%20HD.png" group-title="Dokumentalne",BBC Earth
+plugin://plugin.video.horizongo/?name=BBC+Earth&moviescount=0&url=http%3A%2F%2Fupc-pl-5146.live.horizon.tv%2Fdash%2FBBC_Earth_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A7zrAyUVB4H2O&movie=627525671299&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="BBC First" tvg-logo="logos//BBC%20First.png" group-title="Rozrywkowe",BBC First
+plugin://plugin.video.horizongo/?name=BBC+First&moviescount=0&url=http%3A%2F%2Fupc-pl-5029.live.horizon.tv%2Fdash%2FBBC_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AjQKF8uFXgBAj&movie=627525671331&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="BBC Lifestyle HD" tvg-logo="logos//BBC%20Lifestyle%20HD.png" group-title="Dokumentalne",BBC Lifestyle HD
+plugin://plugin.video.horizongo/?name=BBC+Lifestyle+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5168.live.horizon.tv%2Fdash%2FBBC_Lifestyle_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AF26KD5EL2Zxo&movie=772547622998&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="BBC First" tvg-logo="logos//BBC%20First.png" group-title="Rozrywkowe",BBC First
+plugin://plugin.video.horizongo/?name=BBC+World+News&moviescount=0&url=http%3A%2F%2Fupc-pl-5023.live.horizon.tv%2Fdash%2FBBC_World_News%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AtsUyNJ2Ya57h&movie=726529574966&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="BIZNES24 HD" tvg-logo="logos//Biznes24%20HD.png" group-title="Informacyjne",BIZNES24 HD
+plugin://plugin.video.horizongo/?name=BIZNES24+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5174.live.horizon.tv%2Fdash%2FBiznes24_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AK3j_6KQVxmDT&movie=941160487264&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Baby First TV" tvg-logo="logos//Baby%20First%20TV.png" group-title="Dla Dzieci",Baby First TV
+plugin://plugin.video.horizongo/?name=Baby+First+TV&moviescount=0&url=http%3A%2F%2Fupc-pl-5045.live.horizon.tv%2Fdash%2FBaby_First_TV%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A8McJyvUlBKtN&movie=627525671360&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="UK: Bloomberg" tvg-logo="logos//logo.png" group-title="Informacyjne",UK: Bloomberg
+plugin://plugin.video.horizongo/?name=Bloomberg&moviescount=0&url=http%3A%2F%2Fupc-pl-5109.live.horizon.tv%2Fdash%2FBloomberg%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ATu1_59Uc4sKS&movie=627522599387&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Boomerang" tvg-logo="logos//Boomerang%20HD.png" group-title="Dla Dzieci",Boomerang HD
+plugin://plugin.video.horizongo/?name=Boomerang+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5074.live.horizon.tv%2Fdash%2FBoomerang%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AOlDHnA4R2gSJ&movie=627525671318&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="CBS Europa HD" tvg-logo="logos//CBS%20Europa%20HD.png" group-title="Filmowe",CBS Europa HD
+plugin://plugin.video.horizongo/?name=CBS+Europa+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5163.live.horizon.tv%2Fdash%2FCBS_Europa%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AYqXKDCqf4aZ2&movie=627522599362&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="CBS Reality" tvg-logo="logos//CBS%20Reality.png" group-title="Dokumentalne",CBS Reality HD
+plugin://plugin.video.horizongo/?name=CBS+Reality+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5063.live.horizon.tv%2Fdash%2FCBS_Reality%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A6lANr4eMO2Bv&movie=762428455120&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="UK: CNBC" group-title="Informacyjne",CNN Network
+plugin://plugin.video.horizongo/?name=CNN&moviescount=0&url=http%3A%2F%2Fupc-pl-5015.live.horizon.tv%2Fdash%2FCNN%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AoZAVhdKY9pwb&movie=627525671344&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Cartoon Network HD" tvg-logo="logos//Cartoon%20Network%20HD.png" group-title="Dla Dzieci",Cartoon Network HD
+plugin://plugin.video.horizongo/?name=Cartoon+Network+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5005.live.horizon.tv%2Fdash%2FCartoon_Network%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A_zJXKZW8hCOB&movie=627522599364&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Cinemax HD" tvg-logo="logos//Cinemax%20HD.png" group-title="Filmowe",Cinemax HD
+plugin://plugin.video.horizongo/?name=Cinemax+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5118.live.horizon.tv%2Fdash%2FCinemax_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AsuoRLWhpVG0n&movie=627522599359&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Cinemax 2 HD" tvg-logo="logos//Cinemax%202%20HD.png" group-title="Filmowe",Cinemax 2 HD
+plugin://plugin.video.horizongo/?name=Cinemax2+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5119.live.horizon.tv%2Fdash%2FCinemax_2_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A5UxlWINBjbeV&movie=627522599368&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="MTV Polska" tvg-logo="logos//MTV%20Polska.png" group-title="Muzyczne",MTV Polska
+plugin://plugin.video.horizongo/?name=Club+MTV&moviescount=0&url=http%3A%2F%2Fupc-pl-5050.live.horizon.tv%2Fdash%2FMTV_Dance%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ABl5Wdi2HCnDa&movie=627525671292&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Comedy Central HD" tvg-logo="logos//Comedy%20Central%20HD.png" group-title="Rozrywkowe",Comedy Central HD
+plugin://plugin.video.horizongo/?name=Comedy+Central+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5147.live.horizon.tv%2Fdash%2FComedy_Central_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ABTSi1KpHjvEl&movie=627522599377&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="CI Polsat" tvg-logo="logos//CI%20Polsat.png" group-title="Dokumentalne",CI Polsat
+plugin://plugin.video.horizongo/?name=Crime%2BInvestigation+Polsat&moviescount=0&url=http%3A%2F%2Fupc-pl-5056.live.horizon.tv%2Fdash%2FCrime_Investigation_Polsat%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AutxFrCuKA5xe&movie=627525671367&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Domo+ HD" tvg-logo="logos//Domo+%20HD.png" group-title="Rozrywkowe",Domo+ HD
+plugin://plugin.video.horizongo/?name=DOMO%2B+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5135.live.horizon.tv%2Fdash%2FDOMO_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AoU97osvzuvHG&movie=627522599375&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="DTX" tvg-logo="logos//DTX.png" group-title="Dokumentalne",DTX
+plugin://plugin.video.horizongo/?name=DTX&moviescount=0&url=http%3A%2F%2Fupc-pl-5082.live.horizon.tv%2Fdash%2FDiscovery_Turbo_Extra%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ARdiYuWay4V8q&movie=627525671352&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Da Vinci Learning" tvg-logo="logos//Da%20Vinci%20Learning.png" group-title="Dokumentalne",Da Vinci Learning
+plugin://plugin.video.horizongo/?name=Da+Vinci&moviescount=0&url=http%3A%2F%2Fupc-pl-5075.live.horizon.tv%2Fdash%2FDa_Vinci_Learning%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AFnNNgciprujx&movie=726529574968&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Discovery Channel HD" tvg-logo="logos//Discovery%20Channel%20HD.png" group-title="Dokumentalne",Discovery Channel HD
+plugin://plugin.video.horizongo/?name=Discovery+Channel+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5101.live.horizon.tv%2Fdash%2FDiscovery_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AoBB7ctX4kIYO&movie=627525671369&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Discovery Historia" tvg-logo="logos//Discovery%20Historia.png" group-title="Dokumentalne",Discovery Historia
+plugin://plugin.video.horizongo/?name=Discovery+Historia&moviescount=0&url=http%3A%2F%2Fupc-pl-5020.live.horizon.tv%2Fdash%2FDiscovery_Historia%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AR6YqjYHS67Ot&movie=627525671370&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Discovery Life" tvg-logo="logos//Discovery%20Life.png" group-title="Dokumentalne",Discovery Life
+plugin://plugin.video.horizongo/?name=Discovery+Life&moviescount=0&url=http%3A%2F%2Fupc-pl-5010.live.horizon.tv%2Fdash%2FAnimal_Planet%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ALAme67RK3XDQ&movie=627525671357&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Discovery Science" tvg-logo="logos//Discovery%20Science.png" group-title="Dokumentalne",Discovery Science
+plugin://plugin.video.horizongo/?name=Discovery+Science&moviescount=0&url=http%3A%2F%2Fupc-pl-5084.live.horizon.tv%2Fdash%2FDiscovery_Science%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ASRr_T15RQaMw&movie=627525671351&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Disney Channel HD" tvg-logo="logos//Disney%20Channel%20HD.png" group-title="Dla Dzieci",Disney Channel HD
+plugin://plugin.video.horizongo/?name=Disney+Channel+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5004.live.horizon.tv%2Fdash%2FDisney_Channel%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AF0tTmh8sLUCa&movie=627525671312&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Disney Junior" tvg-logo="logos//Disney%20Junior.png" group-title="Dla Dzieci",Disney Junior
+plugin://plugin.video.horizongo/?name=Disney+Junior&moviescount=0&url=http%3A%2F%2Fupc-pl-5014.live.horizon.tv%2Fdash%2FDisney_Junior%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ACW0L4_hRb7w_&movie=627525671332&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Disney XD" tvg-logo="logos//Disney%20XD.png" group-title="Dla Dzieci",Disney XD
+plugin://plugin.video.horizongo/?name=Disney+XD&moviescount=0&url=http%3A%2F%2Fupc-pl-5024.live.horizon.tv%2Fdash%2FDisney_XD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ASRIMNWcA2Qls&movie=627525671320&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="DocuBox HD" tvg-logo="logos//DocuBox%20HD.png" group-title="Dokumentalne",DocuBox HD
+plugin://plugin.video.horizongo/?name=DocuBox+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5017.live.horizon.tv%2Fdash%2FDocuBox_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A6D9gTm6E9SvL&movie=860741671053&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Eska TV" tvg-logo="logos//Eska%20TV.png" group-title="Muzyczne",Eska TV HD
+plugin://plugin.video.horizongo/?name=ESKA+TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5026.live.horizon.tv%2Fdash%2F8_TV_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AmLBHmESnKnWY&movie=627525671371&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Eleven Sports 1" tvg-logo="logos//Eleven%20Sports%201.png" group-title="Sportowe",Eleven Sports 1
+plugin://plugin.video.horizongo/?name=Eleven+Sports+1&moviescount=0&url=http%3A%2F%2Fupc-pl-5164.live.horizon.tv%2Fdash%2FEleven_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AVoCSO7G7o1WE&movie=700986407062&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Eleven Sports 2" tvg-logo="logos//Eleven%20Sports%202.png" group-title="Sportowe",Eleven Sports 2
+plugin://plugin.video.horizongo/?name=Eleven+Sports+2&moviescount=0&url=http%3A%2F%2Fupc-pl-5165.live.horizon.tv%2Fdash%2FEleven_Sports_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AahfTBtWxDzNe&movie=700986919017&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Eleven Sports 3" tvg-logo="logos//Eleven%20Sports%203.png" group-title="Sportowe",Eleven Sports 3
+plugin://plugin.video.horizongo/?name=Eleven+Sports+3&moviescount=0&url=http%3A%2F%2Fupc-pl-5167.live.horizon.tv%2Fdash%2FEleven_Extra_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AlQwL13J2SBn8&movie=758533671268&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Epic Drama" tvg-logo="logos//Epic%20Drama.png" group-title="Rozrywkowe",Epic Drama HD
+plugin://plugin.video.horizongo/?name=Epic+Drama+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5172.live.horizon.tv%2Fdash%2FEpic_Drama_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AxRUepRXH2H0Y&movie=837907345&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Eurosport 1 HD" tvg-logo="logos//Eurosport%201%20HD.png" group-title="Sportowe",Eurosport 1 HD
+plugin://plugin.video.horizongo/?name=Eurosport+1+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5113.live.horizon.tv%2Fdash%2FEurosport_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3An1SZOn2KMoOv&movie=627522599363&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Eurosport 2 HD" tvg-logo="logos//Eurosport%202%20HD.png" group-title="Sportowe",Eurosport 2 HD
+plugin://plugin.video.horizongo/?name=Eurosport+2+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5115.live.horizon.tv%2Fdash%2FEurosport_2_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3An6E9Lza6aiZr&movie=627522599370&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Extreme Sports HD" tvg-logo="logos//Extreme%20Sports%20HD.png" group-title="Sportowe",Extreme Sports
+plugin://plugin.video.horizongo/?name=Extreme+Sports+Channel&moviescount=0&url=http%3A%2F%2Fupc-pl-5162.live.horizon.tv%2Fdash%2FExtreme_Sports_Channel%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AXYhtJUHg8YmU&movie=627525671267&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="FOX Comedy HD" tvg-logo="logos//FOX%20Comedy%20HD.png" group-title="Rozrywkowe",FOX Comedy HD
+plugin://plugin.video.horizongo/?name=FOX+Comedy+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5072.live.horizon.tv%2Fdash%2FFOX_Life_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AppoIifbJBh7V&movie=627525671321&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="FOX HD" tvg-logo="logos//FOX%20HD.png" group-title="Rozrywkowe",FOX HD
+plugin://plugin.video.horizongo/?name=FOX+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5085.live.horizon.tv%2Fdash%2FFOX_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AoMGF3bgoN5Km&movie=627525671304&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="  " tvg-logo="  " group-title="  ",Fashion TV HD
+plugin://plugin.video.horizongo/?name=Fashion+TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5151.live.horizon.tv%2Fdash%2FFashion_TV_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A2fozepDtBvX1&movie=627525671284&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="FightBox HD" tvg-logo="logos//FightBox%20HD.png" group-title="Sportowe",FightBox HD
+plugin://plugin.video.horizongo/?name=FightBox+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5013.live.horizon.tv%2Fdash%2FFightBox_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A9WmC2YX1CX_S&movie=860740647355&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="FightKlub HD" tvg-logo="logos//FightKlub%20HD.png" group-title="Sportowe",FightKlub HD
+plugin://plugin.video.horizongo/?name=FightKlub+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5081.live.horizon.tv%2Fdash%2FFightKlub_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AQusbsCeZy7SR&movie=712295975207&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Filmbox Extra" tvg-logo="logos//Filmbox%20Extra%20HD.png" group-title="Filmowe",Filmbox Extra HD
+plugin://plugin.video.horizongo/?name=FilmBox+Extra+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5008.live.horizon.tv%2Fdash%2FFilmBox_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AtaNve_lq7SCV&movie=627525671372&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Filmbox Family" tvg-logo="logos//Filmbox%20Family.png" group-title="Filmowe",Filmbox Family
+plugin://plugin.video.horizongo/?name=FilmBox+Family&moviescount=0&url=http%3A%2F%2Fupc-pl-5031.live.horizon.tv%2Fdash%2FFilmBox_Family%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3An25yle2r9p8s&movie=627525671296&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Filmbox Premium HD" tvg-logo="logos//Filmbox%20Premium.png" group-title="Filmowe",Filmbox Premium HD
+plugin://plugin.video.horizongo/?name=FilmBox+Premium+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5077.live.horizon.tv%2Fdash%2FFilmBox_Extra%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3At86GbLQJBdqV&movie=627522599381&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Filmbox Action" tvg-logo="logos//Filmbox%20Action.png" group-title="Filmowe",Filmbox Action
+plugin://plugin.video.horizongo/?name=Filmbox+Action&moviescount=0&url=http%3A%2F%2Fupc-pl-5099.live.horizon.tv%2Fdash%2FFilmbox_Action%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AI7aVCZzcXxVv&movie=627525671276&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Filmbox Arthouse" tvg-logo="logos//Filmbox%20Arthouse.png" group-title="Filmowe",Filmbox Arthouse HD
+plugin://plugin.video.horizongo/?name=Filmbox+Arthouse+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5003.live.horizon.tv%2Fdash%2FFilmBox_Arthouse_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AtK5Ux7FEeNfg&movie=627525671275&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Fokus TV" tvg-logo="logos//Fokus%20TV.png" group-title="Dokumentalne",Fokus TV
+plugin://plugin.video.horizongo/?name=Fokus+TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5152.live.horizon.tv%2Fdash%2FFokus_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AOwTfiZDrvGsp&movie=627522599378&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Food Network" tvg-logo="logos//Food%20Network%20HD.png" group-title="Rozrywkowe",Food Network
+plugin://plugin.video.horizongo/?name=Food+Network&moviescount=0&url=http%3A%2F%2Fupc-pl-5137.live.horizon.tv%2Fdash%2FPolsat_Food_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Arx6fu3NNO55l&movie=641553447082&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="  " tvg-logo="  " group-title="  ",France 24 HD
+plugin://plugin.video.horizongo/?name=France+24+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5108.live.horizon.tv%2Fdash%2FFrance_24%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AtGOGjG0R8WEf&movie=627525671348&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Gametoon HD" tvg-logo="logos//Gametoon.pl.png" group-title="Rozrywkowe",Gametoon HD
+plugin://plugin.video.horizongo/?name=Gametoon+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5009.live.horizon.tv%2Fdash%2FGameToon_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Au1CkBAtSbXkW&movie=860741671050&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Golf Channel" tvg-logo="logos//Golf%20Channel.png" group-title="Sportowe",Golf Channel HD
+plugin://plugin.video.horizongo/?name=Golf+Channel+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5030.live.horizon.tv%2Fdash%2FGolf_Channel_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ARGN9P3Fhll4e&movie=808099879334&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="HBO HD" tvg-logo="logos//HBO%20HD.png" group-title="Filmowe",HBO HD
+plugin://plugin.video.horizongo/?name=HBO+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5112.live.horizon.tv%2Fdash%2FHBO_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ATVj15wk1INl5&movie=627525671333&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="HBO 2 HD" tvg-logo="logos//HBO%202%20HD.png" group-title="Filmowe",HBO 2 HD
+plugin://plugin.video.horizongo/?name=HBO2+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5116.live.horizon.tv%2Fdash%2FHBO_2_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ACKfNzR_aXHAP&movie=627522599369&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="HBO 3 HD" tvg-logo="logos//HBO%203%20HD.png" group-title="Filmowe",HBO 3 HD
+plugin://plugin.video.horizongo/?name=HBO3+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5117.live.horizon.tv%2Fdash%2FHBO_Comedy_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ACG0SDRdHWBEl&movie=627525671308&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="HGTV HD" tvg-logo="logos//HGTV%20HD.png" group-title="Rozrywkowe",HGTV HD
+plugin://plugin.video.horizongo/?name=HGTV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5093.live.horizon.tv%2Fdash%2FTVN_Meteo%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AJHqrK1rH5m8O&movie=726529574963&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="History HD" tvg-logo="logos//History%20HD.png" group-title="Dokumentalne",History HD
+plugin://plugin.video.horizongo/?name=History+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5145.live.horizon.tv%2Fdash%2FHistory_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AVQw9LDn9Z0Gv&movie=627525671373&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="ID HD" tvg-logo="logos//ID%20HD.png" group-title="Dokumentalne",ID HD
+plugin://plugin.video.horizongo/?name=ID+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5131.live.horizon.tv%2Fdash%2FID_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ApjJuFbEduwIt&movie=627525671388&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat JimJam" tvg-logo="logos//Polsat%20JimJam.png" group-title="Dla Dzieci",Polsat JimJam
+plugin://plugin.video.horizongo/?name=JimJam+Polsat&moviescount=0&url=http%3A%2F%2Fupc-pl-5039.live.horizon.tv%2Fdash%2FJimJam_Polsat%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ACleF_BXMPLjK&movie=726529574965&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Kino Polska" tvg-logo="logos//Kino%20Polska.png" group-title="Filmowe",Kino Polska HD
+plugin://plugin.video.horizongo/?name=Kino+Polska+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5040.live.horizon.tv%2Fdash%2FKino_Polska%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A6WVBtzOmhS1k&movie=726529574964&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Kino Polska Muzyka" tvg-logo="logos//Kino%20Polska%20Muzyka.png" group-title="Muzyczne",Kino Polska Muzyka
+plugin://plugin.video.horizongo/?name=Kino+Polska+Muzyka&moviescount=0&url=http%3A%2F%2Fupc-pl-5002.live.horizon.tv%2Fdash%2FKino_Polska_Muzyka%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ALcYJnP8l8KHb&movie=627525671354&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Kino TV" tvg-logo="logos//Kino%20TV.png" group-title="Filmowe",Kino TV
+plugin://plugin.video.horizongo/?name=KinoTV&moviescount=0&url=http%3A%2F%2Fupc-pl-5001.live.horizon.tv%2Fdash%2FFilmBox%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AAAYrG0bRzOdQ&movie=627522599358&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Lifetime HD" tvg-logo="logos//Lifetime.png" group-title="Rozrywkowe",Lifetime
+plugin://plugin.video.horizongo/?name=Lifetime&moviescount=0&url=http%3A%2F%2Fupc-pl-5141.live.horizon.tv%2Fdash%2FLifetime_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Ac8fJUsu4Z_ol&movie=644979750992&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="MTV Polska" tvg-logo="logos//MTV%20Polska.png" group-title="Muzyczne",MTV Polska
+plugin://plugin.video.horizongo/?name=MTV+90s&moviescount=0&url=http%3A%2F%2Fupc-pl-5069.live.horizon.tv%2Fdash%2FMTV_Rocks%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AZteW_HXIL5dQ&movie=627525671271&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="MTV Hits" tvg-logo="logos//MTV%20Hits.png" group-title="Muzyczne",MTV Hits
+plugin://plugin.video.horizongo/?name=MTV+Hits&moviescount=0&url=http%3A%2F%2Fupc-pl-5059.live.horizon.tv%2Fdash%2FMTV_Hits%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AehAqkyU2gmpn&movie=627525671273&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="MTV Live HD" tvg-logo="logos//MTV%20Live%20HD.png" group-title="Muzyczne",MTV Live HD
+plugin://plugin.video.horizongo/?name=MTV+Live+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5106.live.horizon.tv%2Fdash%2FMTV_Live_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ABYzlpOGHUYbR&movie=627525671350&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="MTV Music" tvg-logo="logos//MTV%20Music.png" group-title="Muzyczne",MTV Music
+plugin://plugin.video.horizongo/?name=MTV+Music&moviescount=0&url=http%3A%2F%2Fupc-pl-5098.live.horizon.tv%2Fdash%2FVIVA_Polska%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AYsWgGF_qsTLz&movie=627525671281&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="MTV Polska HD" tvg-logo="logos//MTV%20Polska%20HD.png" group-title="Muzyczne",MTV Polska HD
+plugin://plugin.video.horizongo/?name=MTV+Polska+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5060.live.horizon.tv%2Fdash%2FMTV_Polska%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Aobo7_v_CFuEY&movie=627525671309&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Metro" tvg-logo="logos//Metro%20TV.png" group-title="Popularne",Metro HD
+plugin://plugin.video.horizongo/?name=Metro+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5032.live.horizon.tv%2Fdash%2FMetro_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AMu_WsMf_z7lP&movie=762128935309&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Mezzo" tvg-logo="logos//Mezzo.png" group-title="Muzyczne",Mezzo
+plugin://plugin.video.horizongo/?name=Mezzo&moviescount=0&url=http%3A%2F%2Fupc-pl-5086.live.horizon.tv%2Fdash%2FMezzo%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AYIyYe2hk2qks&movie=627525671324&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Mezzo Live HD" tvg-logo="logos//Mezzo.png" group-title="Muzyczne",Mezzo Live HD
+plugin://plugin.video.horizongo/?name=Mezzo+Live+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5105.live.horizon.tv%2Fdash%2FMezzo_Live_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AOFEhazxjQ2S_&movie=627525671269&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="MiniMini+ HD" tvg-logo="logos//MiniMini+%20HD.png" group-title="Dla Dzieci",MiniMini+ HD
+plugin://plugin.video.horizongo/?name=MiniMini%2B+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5134.live.horizon.tv%2Fdash%2FMiniMini_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AaK9LGUOrjxdM&movie=677141031331&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Motowizja HD" tvg-logo="logos//Motowizja%20HD.png" group-title="Sportowe",Motowizja HD
+plugin://plugin.video.horizongo/?name=Motowizja+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5035.live.horizon.tv%2Fdash%2FMotowizja_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AFhVhFhQbz2Lc&movie=627525671283&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Nowa TV" tvg-logo="logos//NOWA%20TV.png" group-title="Popularne",Nowa TV HD
+plugin://plugin.video.horizongo/?name=NOWA+TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5089.live.horizon.tv%2Fdash%2FNowa_TV_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AW5czyQszp0ot&movie=758533671265&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Nat Geo People HD" tvg-logo="logos//Nat%20Geo%20People%20HD.png" group-title="Dokumentalne",Nat Geo People HD
+plugin://plugin.video.horizongo/?name=Nat+Geo+People+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5073.live.horizon.tv%2Fdash%2FNat_Geo_People_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AD8V84ubDLM67&movie=712296487094&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="National Geographic HD" tvg-logo="logos//National%20Geographic%20HD.png" group-title="Dokumentalne",National Geographic HD
+plugin://plugin.video.horizongo/?name=National+Geographic+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5139.live.horizon.tv%2Fdash%2FNational_Geographic_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ArBkP5JI5Wh0_&movie=627525671377&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="National Geographic Wild HD" tvg-logo="logos//National%20Geographic%20Wild%20HD.png" group-title="Dokumentalne",National Geographic Wild HD
+plugin://plugin.video.horizongo/?name=National+Geographic+Wild+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5140.live.horizon.tv%2Fdash%2FNat_Geo_Wild_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ApY_CpoRAMcJm&movie=627525671376&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Nick Jr" tvg-logo="logos//Nick%20Jr.png" group-title="Dla Dzieci",Nick Jr
+plugin://plugin.video.horizongo/?name=Nick+Jr&moviescount=0&url=http%3A%2F%2Fupc-pl-5044.live.horizon.tv%2Fdash%2FNick_Jr%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AF44kxyWstasa&movie=663456295104&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Nickelodeon" tvg-logo="logos//Nickelodeon.png" group-title="Dla Dzieci",Nickelodeon
+plugin://plugin.video.horizongo/?name=Nickelodeon&moviescount=0&url=http%3A%2F%2Fupc-pl-5097.live.horizon.tv%2Fdash%2FNickelodeon%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Afa_HV3mJFhGe&movie=627525671339&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Nicktoons HD" tvg-logo="logos//Nicktoons%20HD.png" group-title="Dla Dzieci",Nicktoons HD
+plugin://plugin.video.horizongo/?name=Nicktoons+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5170.live.horizon.tv%2Fdash%2FNicktoons_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A9pPYoOBHRnSw&movie=831195687393&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Nuta TV" tvg-logo="logos//Nuta%20TV.png" group-title="Muzyczne",Nuta TV
+plugin://plugin.video.horizongo/?name=Nuta.TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5107.live.horizon.tv%2Fdash%2FNuta_TV_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A2GI_eu_wdVSj&movie=731806247038&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Planete+ HD" tvg-logo="logos//Planete+%20HD.png" group-title="Dokumentalne",Planete+ HD
+plugin://plugin.video.horizongo/?name=PLANETE%2B+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5143.live.horizon.tv%2Fdash%2FPlanete_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AYxGejpNQ7mX2&movie=627522599376&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Paramount Channel HD" tvg-logo="logos//Paramount%20Channel%20HD.png" group-title="Filmowe",Paramount Channel HD
+plugin://plugin.video.horizongo/?name=Paramount+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5149.live.horizon.tv%2Fdash%2FParamount_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AlM_bJs7VxW2H&movie=663456295101&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polo TV" tvg-logo="logos//Polo%20TV.png" group-title="Muzyczne",Polo TV
+plugin://plugin.video.horizongo/?name=Polo+TV&moviescount=0&url=http%3A%2F%2Fupc-pl-5012.live.horizon.tv%2Fdash%2FPolo_TV%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AXM1TX8nRhC8u&movie=627525671378&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Cafe HD" tvg-logo="logos//Polsat%20Cafe%20HD.png" group-title="Rozrywkowe",Polsat Cafe HD
+plugin://plugin.video.horizongo/?name=Polsat+Cafe+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5160.live.horizon.tv%2Fdash%2FPolsat_Cafe_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AJAND2lTkmYwW&movie=684683815199&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Comedy Central" tvg-logo="logos//Comedy%20Central.png" group-title="Rozrywkowe",Comedy Central
+plugin://plugin.video.horizongo/?name=Polsat+Comedy+Central+Extra&moviescount=0&url=http%3A%2F%2Fupc-pl-5011.live.horizon.tv%2Fdash%2FComedy_Central_Family%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Amzcg2fsOxdq0&movie=627525671311&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Doku HD" tvg-logo="logos//Polsat%20Doku%20HD.png" group-title="Dokumentalne",Polsat Doku HD
+plugin://plugin.video.horizongo/?name=Polsat+Doku+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5080.live.horizon.tv%2Fdash%2FPolsat_Doku_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A7Rk6_hG3A_A4&movie=849738791027&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Games" tvg-logo="logos//Polsat%20Games.png" group-title="Rozrywkowe",Polsat Games
+plugin://plugin.video.horizongo/?name=Polsat+Games&moviescount=0&url=http%3A%2F%2Fupc-pl-5079.live.horizon.tv%2Fdash%2FPolsat_Games_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AmZ8KgfKha_DX&movie=856632359061&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat News 2" tvg-logo="logos//Polsat%20News%202.png" group-title="Informacyjne",Polsat News 2
+plugin://plugin.video.horizongo/?name=Polsat+News+2&moviescount=0&url=http%3A%2F%2Fupc-pl-5065.live.horizon.tv%2Fdash%2FPolsat_Biznes%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AdIbIDl6ACt2D&movie=627522599382&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat News HD" tvg-logo="logos//Polsat%20News%20HD.png" group-title="Informacyjne",Polsat News HD
+plugin://plugin.video.horizongo/?name=Polsat+News+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5138.live.horizon.tv%2Fdash%2FPolsat_News_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AucPZxdyN1qZR&movie=627525671387&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Play HD" tvg-logo="logos//Polsat%20Play%20HD.png" group-title="Rozrywkowe",Polsat Play HD
+plugin://plugin.video.horizongo/?name=Polsat+Play+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5159.live.horizon.tv%2Fdash%2FPolsat_Play_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AmF7QakwWGQDa&movie=684684327159&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport Extra HD" tvg-logo="logos//Polsat%20Sport%20Extra%20HD.png" group-title="Sportowe",Polsat Sport Extra HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+Extra+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5123.live.horizon.tv%2Fdash%2FPolsat_Sport_Extra_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ACmB9ZOYra_sz&movie=627525671286&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport Fight HD" tvg-logo="logos//Polsat%20Sport%20Fight%20HD.png" group-title="Sportowe",Polsat Sport Fight HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+Fight+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5173.live.horizon.tv%2Fdash%2FPolsat_Fight_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AxH6RH0kheMXq&movie=831195687396&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport HD" tvg-logo="logos//Polsat%20Sport%20HD.png" group-title="Sportowe",Polsat Sport HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5111.live.horizon.tv%2Fdash%2FPolsat_Sport_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ABcVAfEUZvGgN&movie=627525671272&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport News HD" tvg-logo="logos//Polsat%20Sport%20News%20HD.png" group-title="Sportowe",Polsat Sport News HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+News+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5169.live.horizon.tv%2Fdash%2FPolsat_Sport_News_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A8DBPQBUgUZs_&movie=772548135316&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport Premium 1" tvg-logo="logos//Polsat%20Sport%20Premium%201.png" group-title="Sportowe",Polsat Sport Premium 1 HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+Premium+1+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5064.live.horizon.tv%2Fdash%2FPolsat_Sport_Premium_1%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Arqg6azTfPBHn&movie=848283687287&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport Premium 2" tvg-logo="logos//Polsat%20Sport%20Premium%201.png" group-title="Sportowe",Polsat Sport Premium 2 HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+Premium+2+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5066.live.horizon.tv%2Fdash%2FPolsat_Sport_Premium_2%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A2rJMSVwQjS3B&movie=848284198955&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport Premium 3" tvg-logo="logos//Polsat%20Sport%20Premium%201.png" group-title="Sportowe",Polsat Sport Premium 3 HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+Premium+3+PPV++HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5067.live.horizon.tv%2Fdash%2FPolsat_Sport_Premium_3%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AQw68fZj50HfD&movie=848284198957&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport Premium 4" tvg-logo="logos//Polsat%20Sport%20Premium%201.png" group-title="Sportowe",Polsat Sport Premium 4 HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+Premium+4+PPV++HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5068.live.horizon.tv%2Fdash%2FPolsat_Sport_Premium_4%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A0P4L9Ldzz341&movie=848283687296&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport Premium 5" tvg-logo="logos//Polsat%20Sport%20Premium%201.png" group-title="Sportowe",Polsat Sport Premium 5 HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+Premium+5+PPV++HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5070.live.horizon.tv%2Fdash%2FPolsat_Sport_Premium_5%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AgtzVh2SVuzWM&movie=848283687297&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Sport Premium 6" tvg-logo="logos//Polsat%20Sport%20Premium%201.png" group-title="Sportowe",Polsat Sport Premium 6 HD
+plugin://plugin.video.horizongo/?name=Polsat+Sport+Premium+6+PPV++HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5071.live.horizon.tv%2Fdash%2FPolsat_Sport_Premium_6%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AyRefO_9aproJ&movie=848283687298&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Viasat Explore HD" tvg-logo="logos//Polsat%20Viasat%20Explore%20HD.png" group-title="Dokumentalne",Polsat Viasat Explore HD
+plugin://plugin.video.horizongo/?name=Polsat+Viasat+Explore+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5090.live.horizon.tv%2Fdash%2FViasat_Explore_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ATz1Fx7Mp4y3Q&movie=694585895034&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Viasat History" tvg-logo="logos//Polsat%20Viasat%20History%20HD.png" group-title="Dokumentalne",Polsat Viasat History HD
+plugin://plugin.video.horizongo/?name=Polsat+Viasat+History+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5095.live.horizon.tv%2Fdash%2FViasat_History_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ANZDtBPbmTGcE&movie=681996327122&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Polsat Viasat Nature HD" tvg-logo="logos//Polsat%20Viasat%20Nature%20HD.png" group-title="Dokumentalne",Polsat Viasat Nature HD
+plugin://plugin.video.horizongo/?name=Polsat+Viasat+Nature+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5091.live.horizon.tv%2Fdash%2FViasat_Nature%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AHMlwDPRHWrYn&movie=712296486985&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Power TV" tvg-logo="logos//Power%20TV.png" group-title="Muzyczne",Power TV
+plugin://plugin.video.horizongo/?name=Power+TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5088.live.horizon.tv%2Fdash%2FPower_TV_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ANNVwXF1uZNtx&movie=699267111449&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Puls 2" tvg-logo="logos//Puls%202%20HD.png" group-title="Popularne",Puls 2 HD
+plugin://plugin.video.horizongo/?name=Puls+2+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5157.live.horizon.tv%2Fdash%2FPULS_2_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AKHaUa16ySRoa&movie=677141031332&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Red Carpet TV" tvg-logo="logos//Red%20Carpet%20TV.png" group-title="Rozrywkowe",Red Carpet TV HD
+plugin://plugin.video.horizongo/?name=Red+Carpet+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5042.live.horizon.tv%2Fdash%2FEdusat%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A7hechKmiilxt&movie=627525671337&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Romance TV HD" tvg-logo="logos//Romance%20TV%20HD.png" group-title="Rozrywkowe",Romance TV HD
+plugin://plugin.video.horizongo/?name=Romance+TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5156.live.horizon.tv%2Fdash%2FRomance_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ATLSiCoErITHP&movie=678893607130&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Stars TV" tvg-logo="logos//Stars%20TV.png" group-title="Muzyczne",Stars TV HD
+plugin://plugin.video.horizongo/?name=STARS.TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5158.live.horizon.tv%2Fdash%2FStars_TV_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AOBO_sFdm23Go&movie=677142054999&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Sport Klub HD" tvg-logo="logos//Sport%20Klub.png" group-title="Sportowe",Sport Klub HD
+plugin://plugin.video.horizongo/?name=SportKlub+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5036.live.horizon.tv%2Fdash%2FSportKlub%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AwQPtjW6OhmYY&movie=802543655443&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Stopklatka TV" tvg-logo="logos//Stopklatka%20TV.png" group-title="Filmowe",Stopklatka TV HD
+plugin://plugin.video.horizongo/?name=Stopklatka+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5125.live.horizon.tv%2Fdash%2FStopklatka_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ASywg3GTIzTKp&movie=627525671315&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Sundance TV HD" tvg-logo="logos//Sundance%20TV%20HD.png" group-title="Filmowe",Sundance TV HD
+plugin://plugin.video.horizongo/?name=Sundance+TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5148.live.horizon.tv%2Fdash%2FSundance_Channel_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AStgJYTXva_3e&movie=627525671287&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Superstacja" tvg-logo="logos//Superstacja.png" group-title="Informacyjne",Superstacja HD
+plugin://plugin.video.horizongo/?name=Superstacja+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5087.live.horizon.tv%2Fdash%2FSuperstacja_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A0xslQg41H6Pj&movie=627522599374&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TLC HD" tvg-logo="logos//TLC%20HD.png" group-title="Rozrywkowe",TLC HD
+plugin://plugin.video.horizongo/?name=TLC+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5132.live.horizon.tv%2Fdash%2FTLC_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AcuENtADRigyF&movie=627525671380&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TNT HD" tvg-logo="logos//TNT%20HD.png" group-title="Filmowe",TNT HD
+plugin://plugin.video.horizongo/?name=TNT+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5025.live.horizon.tv%2Fdash%2FTCM%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AXy1vl7LKoMkh&movie=627522599373&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TV Puls HD" tvg-logo="logos//TV%20Puls%20HD.png" group-title="Popularne",TV Puls HD
+plugin://plugin.video.horizongo/?name=TV+Puls+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5133.live.horizon.tv%2Fdash%2FTV_Puls_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AregiMFKTDf96&movie=627525671294&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TV Republika" tvg-logo="logos//TV%20Republika.png" group-title="Informacyjne",TV Republika
+plugin://plugin.video.horizongo/?name=TV+Republika&moviescount=0&url=http%3A%2F%2Fupc-pl-5022.live.horizon.tv%2Fdash%2FTV_Republika%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AqZN0PmULEmek&movie=627525671330&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TV5 Monde HD" tvg-logo="logos//TV%205%20Monde.png" group-title="Zagraniczne",TV5 Monde HD
+plugin://plugin.video.horizongo/?name=TV5Monde+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5110.live.horizon.tv%2Fdash%2FTV5Monde%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AdHbl3OSVhM3R&movie=627525671346&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVN Style HD" tvg-logo="logos//TVN%20Style%20HD.png" group-title="Rozrywkowe",TVN Style HD
+plugin://plugin.video.horizongo/?name=TVN+Style+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5114.live.horizon.tv%2Fdash%2FTVN_Style_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AZJPtxGgxVoRr&movie=627525671314&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVN Turbo HD" tvg-logo="logos//TVN%20Turbo%20HD.png" group-title="Sportowe",TVN Turbo HD
+plugin://plugin.video.horizongo/?name=TVN+Turbo+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5104.live.horizon.tv%2Fdash%2FTVN_Turbo_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AGNLZdQ4NzPYn&movie=627525671300&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVN 24 BiS HD" tvg-logo="logos//TVN%2024%20BiS%20HD.png" group-title="Informacyjne",TVN 24 BiS HD
+plugin://plugin.video.horizongo/?name=TVN24+BiS+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5083.live.horizon.tv%2Fdash%2FTVN_24_BIS%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AxReL3CSkbonq&movie=627525671381&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVN 24 HD" tvg-logo="logos//TVN%2024%20HD.png" group-title="Informacyjne",TVN 24 HD
+plugin://plugin.video.horizongo/?name=TVN24+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5096.live.horizon.tv%2Fdash%2FTVN_24_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ASChi78ewGCym&movie=627525671382&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP 1" tvg-logo="logos//TVP%201%20HD.png" group-title="Popularne",TVP 1 HD
+plugin://plugin.video.horizongo/?name=TVP+1+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5102.live.horizon.tv%2Fdash%2FTVP_1_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A6PwqEkm_I2aF&movie=627525671274&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP 2 HD" tvg-logo="logos//TVP%202%20HD.png" group-title="Popularne",TVP 2 HD
+plugin://plugin.video.horizongo/?name=TVP+2+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5103.live.horizon.tv%2Fdash%2FTVP_2_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AlAEbsjUQ7vBs&movie=627525671328&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP 3 Gdansk" tvg-logo="logos//TVP%20Gdansk.png" group-title="Popularne",TVP 3 Gdansk
+plugin://plugin.video.horizongo/?name=TVP+3+Gda%C5%84sk&moviescount=0&url=http%3A%2F%2Fupc-pl-5016.live.horizon.tv%2Fdash%2FTVP_Gdansk%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A1J9l2f_omi63&movie=355617831152&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP 3 Katowice" tvg-logo="logos//TVP%20Katowice.png" group-title="Popularne",TVP 3 Katowice
+plugin://plugin.video.horizongo/?name=TVP+3+Katowice&moviescount=0&url=http%3A%2F%2Fupc-pl-5038.live.horizon.tv%2Fdash%2FTVP_Katowice%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AANCN8k2NaGoi&movie=355617831153&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP 3 Krakow" tvg-logo="logos//TVP%203%20Krakow.png" group-title="Popularne",TVP 3 Krakow
+plugin://plugin.video.horizongo/?name=TVP+3+Krak%C3%B3w&moviescount=0&url=http%3A%2F%2Fupc-pl-5006.live.horizon.tv%2Fdash%2FTVP_Krakow%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AtgtufNoEpmy4&movie=355617831154&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP 3 Warszawa" tvg-logo="logos//TVP%203%20Warszawa.png" group-title="Popularne",TVP 3 Warszawa
+plugin://plugin.video.horizongo/?name=TVP+3+Warszawa&moviescount=0&url=http%3A%2F%2Fupc-pl-5053.live.horizon.tv%2Fdash%2FTVP_Warszawa%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AirDZkpKHN8Nm&movie=337090087164&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP ABC" tvg-logo="logos//TVP%20ABC.png" group-title="Dla Dzieci",TVP ABC
+plugin://plugin.video.horizongo/?name=TVP+ABC&moviescount=0&url=http%3A%2F%2Fupc-pl-5076.live.horizon.tv%2Fdash%2FTVP_ABC%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A3fF3pNs8Ep2R&movie=627525671329&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP HD" tvg-logo="logos//TVP%20HD.png" group-title="Popularne",TVP HD
+plugin://plugin.video.horizongo/?name=TVP+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5153.live.horizon.tv%2Fdash%2FTVP_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A1lIsy37ptpvv&movie=627525671279&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP Historia" tvg-logo="logos//TVP%20Historia.png" group-title="Popularne",TVP Historia
+plugin://plugin.video.horizongo/?name=TVP+Historia&moviescount=0&url=http%3A%2F%2Fupc-pl-5047.live.horizon.tv%2Fdash%2FTVP_Historia%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AelAQurLBQkw1&movie=627525671340&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP Info" tvg-logo="logos//TVP%20Info.png" group-title="Informacyjne",TVP Info
+plugin://plugin.video.horizongo/?name=TVP+Info&moviescount=0&url=http%3A%2F%2Fupc-pl-5166.live.horizon.tv%2Fdash%2FTVP_Info_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AvqWofR3J5e45&movie=749346855088&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP Kultura" tvg-logo="logos//TVP%20Kultura.png" group-title="Popularne",TVP Kultura
+plugin://plugin.video.horizongo/?name=TVP+Kultura&moviescount=0&url=http%3A%2F%2Fupc-pl-5078.live.horizon.tv%2Fdash%2FTVP_Kultura%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A8IiZD_ILCjbU&movie=627525671305&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP Polonia" tvg-logo="logos//TVP%20Polonia.png" group-title="Popularne",TVP Polonia
+plugin://plugin.video.horizongo/?name=TVP+Polonia&moviescount=0&url=http%3A%2F%2Fupc-pl-5007.live.horizon.tv%2Fdash%2FTVP_Polonia_Warszawa%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A9BrpgxdzXn0q&movie=627525671307&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP Rozrywka" tvg-logo="logos//TVP%20Rozrywka.png" group-title="Popularne",TVP Rozrywka
+plugin://plugin.video.horizongo/?name=TVP+Rozrywka&moviescount=0&url=http%3A%2F%2Fupc-pl-5018.live.horizon.tv%2Fdash%2FTVP_Rozrywka%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AdEtHKUHqNcN5&movie=627525671334&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP Seriale" tvg-logo="logos//TVP%20Seriale.png" group-title="Popularne",TVP Seriale
+plugin://plugin.video.horizongo/?name=TVP+Seriale&moviescount=0&url=http%3A%2F%2Fupc-pl-5028.live.horizon.tv%2Fdash%2FTVP_Seriale%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AQewTyHu5NoEe&movie=627525671327&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="TVP Sport HD" tvg-logo="logos//TVP%20Sport%20HD.png" group-title="Sportowe",TVP Sport HD
+plugin://plugin.video.horizongo/?name=TVP+Sport+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5122.live.horizon.tv%2Fdash%2FTVP_Sport_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AIGj9QHlqYjog&movie=627525671288&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Teletoon+ HD" tvg-logo="logos//Teletoon+%20HD.png" group-title="Dla Dzieci",Teletoon+ HD
+plugin://plugin.video.horizongo/?name=TeleToon%2B+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5144.live.horizon.tv%2Fdash%2FteleTOON_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AEzNOdON6nP9c&movie=677141031333&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="ID HD" tvg-logo="logos//ID%20HD.png" group-title="Dokumentalne",ID HD
+plugin://plugin.video.horizongo/?name=Top+Kids+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5049.live.horizon.tv%2Fdash%2FTop_Kids_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AV6ExIyC93Kro&movie=725642791014&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Travel Channel HD" tvg-logo="logos//Travel%20Channel%20HD.png" group-title="Rozrywkowe",Travel Channel HD
+plugin://plugin.video.horizongo/?name=Travel+Channel+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5142.live.horizon.tv%2Fdash%2FTravel_Channel_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3A2lqENp7eMlck&movie=627522599383&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="VH1" tvg-logo="logos//VH1.png" group-title="Muzyczne",VH1
+plugin://plugin.video.horizongo/?name=VH+1&moviescount=0&url=http%3A%2F%2Fupc-pl-5043.live.horizon.tv%2Fdash%2FVH_1%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AMAezwoUR6F60&movie=627525671384&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="VOX Music TV" tvg-logo="logos//VOX%20Music%20TV.png" group-title="Muzyczne",VOX Music TV
+plugin://plugin.video.horizongo/?name=VOX+Music+TV&moviescount=0&url=http%3A%2F%2Fupc-pl-5100.live.horizon.tv%2Fdash%2FVOX_Music_TV%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AiQeEetbwUyh9&movie=627522599385&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="WP" tvg-logo="logos//WP.png" group-title="Popularne",WP HD
+plugin://plugin.video.horizongo/?name=WP+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5046.live.horizon.tv%2Fdash%2FWP_1_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3ArvVuugFGBx9v&movie=762128935301&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Zoom TV" tvg-logo="logos//Zoom%20TV.png" group-title="Popularne",Zoom TV HD
+plugin://plugin.video.horizongo/?name=Zoom+TV+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5037.live.horizon.tv%2Fdash%2FZoom_TV_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Ab6mkmKL2Nkus&movie=758533671267&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="euronews HD" tvg-logo="logos//Euronews%20FR.png" group-title="Informacyjne",euronews HD
+plugin://plugin.video.horizongo/?name=euronews+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5034.live.horizon.tv%2Fdash%2FEuronews%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AgpMtfu4e_1Bh&movie=627525671282&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="Kuchnia+ HD" tvg-logo="logos//Kuchnia+%20HD.png" group-title="Rozrywkowe",Kuchnia+ HD
+plugin://plugin.video.horizongo/?name=kuchnia%2B+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5136.live.horizon.tv%2Fdash%2Fkuchnia_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3Ap5EavwFswWT5&movie=627525671313&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="nSport+ HD" tvg-logo="logos//nSport+%20HD.png" group-title="Sportowe",nSport+ HD
+plugin://plugin.video.horizongo/?name=nSport%2B+HD&moviescount=0&url=http%3A%2F%2Fupc-pl-5161.live.horizon.tv%2Fdash%2FnSport_HD%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AEzZIeuggIP81&movie=664446503052&mode%3Dbox&mode=playchan&page=1
+#EXTINF:0 tvg-id="wPolsce.pl" tvg-logo="logos//wPolsce.pl.png" group-title="Informacyjne",wPolsce.pl
+plugin://plugin.video.horizongo/?name=wPolsce.pl&moviescount=0&url=http%3A%2F%2Fupc-pl-5057.live.horizon.tv%2Fdash%2FwPolscepl%2Fmanifest.mpd%7Curn%3Aorion%3Amedia%3Astd%3AD32dgdyLJDSi&movie=846189607338&mode%3Dbox&mode=playchan&page=1
