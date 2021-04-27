@@ -1,0 +1,187 @@
+﻿#EXTM3U x-tvg-url="http://kim.cherrytv.webd.pl/epg/guide.xml.gz"
+#EXTINF:0 tvg-id="13 Ulica HD" tvg-logo="13 Ulica HD.png" group-title="Rozrywkowe",13 Ulica HD
+plugin://plugin.video.ncplusgo/?name=13+Ulica+HD&moviescount=0&url=13-ulica&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Ale Kino+ HD" tvg-logo="Ale Kino+ HD.png" group-title="Filmowe",Ale Kino+ HD
+plugin://plugin.video.ncplusgo/?name=ALE+KINO%2B+HD&moviescount=0&url=ale-kino-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="AMC" tvg-logo="AMC HD.png" group-title="Filmowe",AMC
+plugin://plugin.video.ncplusgo/?name=AMC&moviescount=0&url=mgm-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Animal Planet HD" tvg-logo="Animal Planet HD.png" group-title="Dokumentalne",Animal Planet HD
+plugin://plugin.video.ncplusgo/?name=Animal+Planet+HD&moviescount=0&url=animal-planet-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="AXN HD" tvg-logo="AXN HD.png" group-title="Rozrywkowe",AXN HD
+plugin://plugin.video.ncplusgo/?name=AXN+HD&moviescount=0&url=axn-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="AXN Black" tvg-logo="AXN Black.png" group-title="Rozrywkowe",AXN Black
+plugin://plugin.video.ncplusgo/?name=AXN+Black&moviescount=0&url=axn-black&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="AXN Spin HD" tvg-logo="AXN Spin HD.png" group-title="Rozrywkowe",AXN Spin HD
+plugin://plugin.video.ncplusgo/?name=AXN+Spin+HD&moviescount=0&url=axn-spin-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="AXN White" tvg-logo="AXN White.png" group-title="Rozrywkowe",AXN White
+plugin://plugin.video.ncplusgo/?name=AXN+White&moviescount=0&url=axn-white&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Baby TV" tvg-logo="Baby TV.png" group-title="Dla Dzieci",Baby TV
+plugin://plugin.video.ncplusgo/?name=Baby+TV&moviescount=0&url=baby-tv&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="BBC Brit HD" tvg-logo="BBC Brit HD.png" group-title="Dokumentalne",BBC Brit HD
+plugin://plugin.video.ncplusgo/?name=BBC+Brit+HD&moviescount=0&url=bbc-brit-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="BBC CBeebies" tvg-logo="BBC Cbeebies.png" group-title="Dla Dzieci",BBC CBeebies
+plugin://plugin.video.ncplusgo/?name=Cbeebies&moviescount=0&url=cbeebies&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="BBC Earth HD" tvg-logo="BBC Earth HD.png" group-title="Dokumentalne",BBC Earth HD
+plugin://plugin.video.ncplusgo/?name=BBC+Earth+HD&moviescount=0&url=bbc-earth-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="BBC First" tvg-logo="BBC First.png" group-title="Rozrywkowe",BBC First
+plugin://plugin.video.ncplusgo/?name=BBC+First&moviescount=0&url=bbc-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="BBC Lifestyle HD" tvg-logo="BBC Lifestyle HD.png" group-title="Dokumentalne",BBC Lifestyle HD
+plugin://plugin.video.ncplusgo/?name=BBC+Lifestyle+HD&moviescount=0&url=bbc-lifestyle&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Biznes 24 HD" tvg-logo="Biznes 24 HD.png" group-title="Informacyjne",Biznes 24 HD
+plugin://plugin.video.ncplusgo/?name=BIZNES24+HD&moviescount=0&url=biznes24-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Boomerang" tvg-logo="Boomerang HD.png" group-title="Dla Dzieci",Boomerang HD
+plugin://plugin.video.ncplusgo/?name=Boomerang+HD&moviescount=0&url=boomerang&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Cartoon Network HD" tvg-logo="Cartoon Network HD.png" group-title="Dla Dzieci",Cartoon Network HD
+plugin://plugin.video.ncplusgo/?name=Cartoon+Network+HD&moviescount=0&url=cartoon-network&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="CI Polsat" tvg-logo="CI Polsat.png" group-title="Dokumentalne",CI Polsat HD
+plugin://plugin.video.ncplusgo/?name=Crime%2BInvestigation+Polsat+HD&moviescount=0&url=ci-polsat&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Comedy Central HD" tvg-logo="Comedy Central HD.png" group-title="Rozrywkowe",Comedy Central HD
+plugin://plugin.video.ncplusgo/?name=Comedy+Central+HD&moviescount=0&url=comedy-central-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Disco Polo Music" tvg-logo="Disco Polo Music.png" group-title="Muzyczne",Disco Polo Music
+plugin://plugin.video.ncplusgo/?name=Disco+Polo+Music&moviescount=0&url=disco-polo-music&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Discovery Channel HD" tvg-logo="Discovery Channel HD.png" group-title="Dokumentalne",Discovery Channel HD
+plugin://plugin.video.ncplusgo/?name=Discovery+HD&moviescount=0&url=discovery-channel-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Discovery Historia" tvg-logo="Discovery Historia.png" group-title="Dokumentalne",Discovery Historia
+plugin://plugin.video.ncplusgo/?name=Discovery+Historia&moviescount=0&url=discovery-historia&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Discovery Life HD" tvg-logo="Discovery Life.png" group-title="Dokumentalne",Discovery Life HD
+plugin://plugin.video.ncplusgo/?name=Discovery+Life+HD&moviescount=0&url=discovery-life&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Discovery Science HD" tvg-logo="Discovery Science HD.png" group-title="Dokumentalne",Discovery Science HD
+plugin://plugin.video.ncplusgo/?name=D.+SCIENCE+HD&moviescount=0&url=discovery-science&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Disney Channel HD" tvg-logo="Disney Channel HD.png" group-title="Dla Dzieci",Disney Channel HD
+plugin://plugin.video.ncplusgo/?name=Disney+Channel+HD&moviescount=0&url=disney-channel&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Disney Junior" tvg-logo="Disney Junior.png" group-title="Dla Dzieci",Disney Junior
+plugin://plugin.video.ncplusgo/?name=Disney+Junior&moviescount=0&url=disney-junior&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Disney XD" tvg-logo="Disney XD.png" group-title="Dla Dzieci",Disney XD
+plugin://plugin.video.ncplusgo/?name=Disney+XD&moviescount=0&url=disney-xd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="DTX" tvg-logo="DTX.png" group-title="Dokumentalne",DTX
+plugin://plugin.video.ncplusgo/?name=DTX&moviescount=0&url=discovery-turbo-xtra-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="E! Entertainment HD" tvg-logo="E! Entertainment.png" group-title="Rozrywkowe",E! Entertainment HD
+plugin://plugin.video.ncplusgo/?name=E%21Entertainment+HD&moviescount=0&url=e-entertainment&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Eleven Sports 4 HD" tvg-logo="Eleven Sports 4.png" group-title="Sportowe",Eleven Sports 4 HD
+plugin://plugin.video.ncplusgo/?name=Eleven+Sports+4+HD&moviescount=0&url=eleven-sports-4-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Epic Drama" tvg-logo="Epic Drama.png" group-title="Rozrywkowe",Epic Drama
+plugin://plugin.video.ncplusgo/?name=Epic+Drama&moviescount=0&url=Epic-HD&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Eska TV" tvg-logo="Eska TV.png" group-title="Muzyczne",Eska TV
+plugin://plugin.video.ncplusgo/?name=ESKA+TV&moviescount=0&url=8tv&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Eska TV Extra" tvg-logo="Eska TV Extra.png" group-title="Muzyczne",Eska TV Extra
+plugin://plugin.video.ncplusgo/?name=ESKA+TV+EXTRA&moviescount=0&url=eska-tv&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Eurosport 1 HD" tvg-logo="Eurosport 1 HD.png" group-title="Sportowe",Eurosport 1 HD
+plugin://plugin.video.ncplusgo/?name=EUROSPORT+1+HD&moviescount=0&url=eurosport-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Eurosport 2 HD" tvg-logo="Eurosport 2 HD.png" group-title="Sportowe",Eurosport 2 HD
+plugin://plugin.video.ncplusgo/?name=EUROSPORT+2+HD&moviescount=0&url=eurosport2-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Extreme Sports HD" tvg-logo="Extreme Sports HD.png" group-title="Sportowe",Extreme Sports HD
+plugin://plugin.video.ncplusgo/?name=EXTREME+SPORTS+HD&moviescount=0&url=extreme-sports&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="FightKlub HD" tvg-logo="FightKlub HD.png" group-title="Sportowe",FightKlub HD
+plugin://plugin.video.ncplusgo/?name=Fightklub+HD&moviescount=0&url=fightklub-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Fokus TV" tvg-logo="Fokus TV.png" group-title="Dokumentalne",Fokus TV
+plugin://plugin.video.ncplusgo/?name=FOKUS+TV&moviescount=0&url=fokus-tv&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="FOX HD" tvg-logo="FOX HD.png" group-title="Rozrywkowe",FOX HD
+plugin://plugin.video.ncplusgo/?name=FOX+HD&moviescount=0&url=fox-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="FOX Comedy HD" tvg-logo="FOX Comedy HD.png" group-title="Rozrywkowe",FOX Comedy HD
+plugin://plugin.video.ncplusgo/?name=FOX+Comedy+HD&moviescount=0&url=fox-comedy-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="HGTV" tvg-logo="HGTV.png" group-title="Rozrywkowe",HGTV
+plugin://plugin.video.ncplusgo/?name=HGTV&moviescount=0&url=tvn-meteo-active&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="History HD" tvg-logo="History HD.png" group-title="Dokumentalne",History HD
+plugin://plugin.video.ncplusgo/?name=History+HD&moviescount=0&url=history-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="History2 HD" tvg-logo="History2.png" group-title="Dokumentalne",History2 HD
+plugin://plugin.video.ncplusgo/?name=HISTORY+2+HD&moviescount=0&url=h2-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="ID HD" tvg-logo="ID HD.png" group-title="Dokumentalne",ID HD
+plugin://plugin.video.ncplusgo/?name=ID+HD&moviescount=0&url=id-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Kino Polska" tvg-logo="Kino Polska.png" group-title="Filmowe",Kino Polska HD
+plugin://plugin.video.ncplusgo/?name=Kino+Polska+HD&moviescount=0&url=kino-polska&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Kino Polska Muzyka" tvg-logo="Kino Polska Muzyka.png" group-title="Muzyczne",Kino Polska Muzyka
+plugin://plugin.video.ncplusgo/?name=Kino+Polska+Muzyka&moviescount=0&url=kino-polska-muzyka&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Kino TV" tvg-logo="Kino TV.png" group-title="Filmowe",Kino TV HD
+plugin://plugin.video.ncplusgo/?name=Kino+TV+HD&moviescount=0&url=filmbox&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Lifetime HD" tvg-logo="Lifetime HD.png" group-title="Rozrywkowe",Lifetime HD
+plugin://plugin.video.ncplusgo/?name=Lifetime+HD&moviescount=0&url=lifetime-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Metro" tvg-logo="Metro TV.png" group-title="Popularne",Metro
+plugin://plugin.video.ncplusgo/?name=METRO&moviescount=0&url=metro-tv&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="MiniMini+ HD" tvg-logo="MiniMini+ HD.png" group-title="Dla Dzieci",MiniMini+ HD
+plugin://plugin.video.ncplusgo/?name=MiniMini%2B+HD&moviescount=0&url=minimini-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Motowizja HD" tvg-logo="Motowizja HD.png" group-title="Sportowe",Motowizja HD
+plugin://plugin.video.ncplusgo/?name=Motowizja+HD&moviescount=0&url=motowizja-tv&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="MTV Live HD" tvg-logo="MTV Live HD.png" group-title="Muzyczne",MTV Live HD
+plugin://plugin.video.ncplusgo/?name=MTV+Live+HD&moviescount=0&url=mtv-live-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="MTV Music" tvg-logo="MTV Music 24.png" group-title="Muzyczne",MTV Music 24
+plugin://plugin.video.ncplusgo/?name=MTV+Music+Polska&moviescount=0&url=viva-polska&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="MTV Polska HD" tvg-logo="MTV Polska HD.png" group-title="Muzyczne",MTV Polska HD
+plugin://plugin.video.ncplusgo/?name=MTV+Polska+HD&moviescount=0&url=mtv-polska&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Nat Geo People HD" tvg-logo="Nat Geo People HD.png" group-title="Dokumentalne",Nat Geo People HD
+plugin://plugin.video.ncplusgo/?name=Nat+Geo+People+HD&moviescount=0&url=nat-geo-people-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="National Geographic Wild HD" tvg-logo="National Geographic Wild HD.png" group-title="Dokumentalne",National Geographic Wild HD
+plugin://plugin.video.ncplusgo/?name=NATIONAL+GEOGRAPHIC+WILD+HD&moviescount=0&url=nat-geo-wild-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="National Geographic HD" tvg-logo="National Geographic HD.png" group-title="Dokumentalne",National Geographic HD
+plugin://plugin.video.ncplusgo/?name=National+Geo+HD&moviescount=0&url=national-geographic-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Nick Jr" tvg-logo="Nick Jr.png" group-title="Dla Dzieci",Nick Jr
+plugin://plugin.video.ncplusgo/?name=Nick+Jr.&moviescount=0&url=nick-jr&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Nickelodeon" tvg-logo="Nickelodeon.png" group-title="Dla Dzieci",Nickelodeon
+plugin://plugin.video.ncplusgo/?name=Nickelodeon&moviescount=0&url=nickelodeon&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Nicktoons HD" tvg-logo="Nicktoons HD.png" group-title="Dla Dzieci",Nicktoons HD
+plugin://plugin.video.ncplusgo/?name=NickToons+HD&moviescount=0&url=nickelodeon-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Nowa TV" tvg-logo="NOWA TV.png" group-title="Popularne",Nowa TV
+plugin://plugin.video.ncplusgo/?name=Nowa+TV&moviescount=0&url=nowa-tv&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="nSport+ HD" tvg-logo="nSport+ HD.png" group-title="Sportowe",nSport+ HD
+plugin://plugin.video.ncplusgo/?name=nSport%2B+HD&moviescount=0&url=nsport-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Paramount Channel HD" tvg-logo="Paramount Channel HD.png" group-title="Filmowe",Paramount Channel HD
+plugin://plugin.video.ncplusgo/?name=Paramount+Channel+HD&moviescount=0&url=paramount-channel-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Planete+ HD" tvg-logo="Planete+ HD.png" group-title="Dokumentalne",Planete+ HD
+plugin://plugin.video.ncplusgo/?name=Planete%2B+HD&moviescount=0&url=planete-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Polsat Cafe HD" tvg-logo="Polsat Cafe HD.png" group-title="Rozrywkowe",Polsat Cafe HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Cafe+HD&moviescount=0&url=polsat-cafe&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Polsat Comedy Central Extra" tvg-logo="Polsat Comedy Central Extra.png" group-title="Rozrywkowe",Polsat Comedy Central Extra
+plugin://plugin.video.ncplusgo/?name=Polsat+Comedy+Central+Extra&moviescount=0&url=comedy-central-family&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Polsat JimJam" tvg-logo="Polsat JimJam.png" group-title="Dla Dzieci",Polsat JimJam
+plugin://plugin.video.ncplusgo/?name=Polsat+JimJam&moviescount=0&url=polsat-jimjam&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Polsat News HD" tvg-logo="Polsat News HD.png" group-title="Informacyjne",Polsat News HD
+plugin://plugin.video.ncplusgo/?name=Polsat+News+HD&moviescount=0&url=polsat-news-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Polsat Play HD" tvg-logo="Polsat Play HD.png" group-title="Rozrywkowe",Polsat Play HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Play+HD&moviescount=0&url=polsat-play&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Polsat Viasat Explore HD" tvg-logo="Polsat Viasat Explore HD.png" group-title="Dokumentalne",Polsat Viasat Explore HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Viasat+Explore+HD&moviescount=0&url=viasat-explore-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Polsat Viasat History" tvg-logo="Polsat Viasat History HD.png" group-title="Dokumentalne",Polsat Viasat History HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Viasat+History+HD&moviescount=0&url=viasat-history-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Polsat Viasat Nature HD" tvg-logo="Polsat Viasat Nature HD.png" group-title="Dokumentalne",Polsat Viasat Nature HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Viasat+Nature+HD&moviescount=0&url=viasat-nature&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Power TV" tvg-logo="Power TV.png" group-title="Muzyczne",Power TV
+plugin://plugin.video.ncplusgo/?name=Power+TV&moviescount=0&url=power-tv0&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Romance TV HD" tvg-logo="Romance TV HD.png" group-title="Rozrywkowe",Romance TV HD
+plugin://plugin.video.ncplusgo/?name=Romance+TV+HD&moviescount=0&url=romance-tv-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="SciFi HD" tvg-logo="Scifi Universal.png" group-title="Filmowe",SciFi HD
+plugin://plugin.video.ncplusgo/?name=Sci+fi+HD&moviescount=0&url=sci-fi&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Stopklatka" tvg-logo="Stopklatka.png" group-title="Filmowe",Stopklatka
+plugin://plugin.video.ncplusgo/?name=Stopklatka+TV&moviescount=0&url=stopklatka-tv&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Superstacja" tvg-logo="Superstacja.png" group-title="Informacyjne",Superstacja
+plugin://plugin.video.ncplusgo/?name=Superstacja&moviescount=0&url=superstacja&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Teletoon+ HD" tvg-logo="Teletoon+ HD.png" group-title="Dla Dzieci",Teletoon+ HD
+plugin://plugin.video.ncplusgo/?name=teleTOON%2B+HD&moviescount=0&url=teletoon-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="TLC HD" tvg-logo="TLC HD.png" group-title="Rozrywkowe",TLC HD
+plugin://plugin.video.ncplusgo/?name=TLC+HD&moviescount=0&url=tlc-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="TNT HD" tvg-logo="TNT HD.png" group-title="Filmowe",TNT HD
+plugin://plugin.video.ncplusgo/?name=TNT+HD&moviescount=0&url=TNT&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Travel Channel HD" tvg-logo="Travel Channel HD.png" group-title="Rozrywkowe",Travel Channel HD
+plugin://plugin.video.ncplusgo/?name=Travel+Channel+HD&moviescount=0&url=travel-channel&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="TV Republika" tvg-logo="TV Republika.png" group-title="Informacyjne",TV Republika
+plugin://plugin.video.ncplusgo/?name=TV+Republika&moviescount=0&url=tv-republika&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="TVN 24 HD" tvg-logo="TVN 24 HD.png" group-title="Informacyjne",TVN 24 HD
+plugin://plugin.video.ncplusgo/?name=TVN24+HD&moviescount=0&url=tvn-24-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="TVN 24 BiS HD" tvg-logo="TVN 24 BiS HD.png" group-title="Informacyjne",TVN 24 BiS HD
+plugin://plugin.video.ncplusgo/?name=TVN24+BiS+HD&moviescount=0&url=tvn-biznes-i-swiat&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="TVN Style HD" tvg-logo="TVN Style HD.png" group-title="Rozrywkowe",TVN Style HD
+plugin://plugin.video.ncplusgo/?name=TVN+Style+HD&moviescount=0&url=tvn-style-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="TVN Turbo HD" tvg-logo="TVN Turbo HD.png" group-title="Sportowe",TVN Turbo HD
+plugin://plugin.video.ncplusgo/?name=TVN+Turbo+HD&moviescount=0&url=tvn-turbo-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="TVP Info" tvg-logo="TVP Info.png" group-title="Informacyjne",TVP Info
+plugin://plugin.video.ncplusgo/?name=TVP+INFO&moviescount=0&url=tvp-info&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="VOX Music TV" tvg-logo="VOX Music TV.png" group-title="Muzyczne",VOX Music TV
+plugin://plugin.video.ncplusgo/?name=VOX+MUSIC+TV&moviescount=0&url=vox-music-tv&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="WP" tvg-logo="WP.png" group-title="Popularne",WP
+plugin://plugin.video.ncplusgo/?name=WP&moviescount=0&url=wp&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Canal+ Premium" tvg-logo="Canal+ Premium.png" group-title="Filmowe",Canal+ Premium 
+plugin://plugin.video.ncplusgo/?name=Canal%2B+Domo&moviescount=0&url=domo-hd&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Canal+ Premium" tvg-logo="Canal+ Premium.png" group-title="Filmowe",Canal+ Premium 
+plugin://plugin.video.ncplusgo/?name=Canal%2B+Kuchnia&moviescount=0&url=kuchnia-hd&movie=True&mode=playNC&page=1
+#EXTINF:0,Kanał wirtualny 3
+plugin://plugin.video.ncplusgo/?name=Kana%C5%82+wirtualny+3&moviescount=0&url=kanal-wirtualny3&movie=True&mode=playNC&page=1
+#EXTINF:0 tvg-id="Novelas+" tvg-logo="Novelas+.png" group-title="Rozrywkowe",Novelas+
+plugin://plugin.video.ncplusgo/?name=Novelas%2B&moviescount=0&url=novelas-2&movie=True&mode=playNC&page=1
